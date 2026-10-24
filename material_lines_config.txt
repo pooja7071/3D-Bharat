@@ -1,0 +1,43 @@
+{
+    "worksheet_name": "RoadAssesment",
+    "project_name": "Project_1",
+    "created_by": "pooja swami",
+    "created_at": "2026-10-24T15:03:15.992089",
+    "material_line": [
+        {
+            "name": "M1",
+            "material_type": "GSB Grade-1",
+            "rmh_id": 125001,
+            "ref_layer": "Construction",
+            "road_surfacing": false,
+            "dialog_segments": []
+        },
+        {
+            "name": "M2",
+            "material_type": "GSB Grade-1",
+            "rmh_id": 125001,
+            "ref_layer": [
+                "Construction",
+                "M1"
+            ],
+            "road_surfacing": false,
+            "dialog_segments": [
+                {
+                    "from_chainage": "101+00.000",
+                    "to_chainage": "101+160",
+                    "ref_layer": "Construction"
+                },
+                {
+                    "from_chainage": "101+160",
+                    "to_chainage": "101+680",
+                    "ref_layer": "M1"
+                },
+                {
+                    "from_chainage": "101+680",
+                    "to_chainage": "101+780.000",
+                    "ref_layer": "Construction"
+                }
+            ]
+        }
+    ]
+}

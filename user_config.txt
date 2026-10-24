@@ -1,0 +1,46 @@
+{
+    "user_id": "20710",
+    "euh_id": "126254",
+    "full_name": "pooja swami",
+    "email": "swamipooja197071@gmail.com",
+    "username": "9561457244",
+    "mobile_number": "9561457244",
+    "login_type": 1,
+    "app_token": "",
+    "employee_data": null,
+    "student_data": {
+        "college_name": "sangmeshwar auutonomous college solapur",
+        "university_name": "solapur university "
+    },
+    "allocation_data": {},
+    "project_data": {},
+    "current_project_id": null,
+    "remaining_days": 90,
+    "last_login": "2026-10-24T17:00:48.072852",
+    "last_reminder_date": null,
+    "raw_api_response": {
+        "status_code": 200,
+        "message": "Login successful",
+        "api_response_code": "AUTH004-v1.0-200",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjA3MTAsImV1aF9pZCI6MTI2MjU0LCJ1c2VyX3R5cGUiOjEsImlhdCI6MTc5Mjg0MTQ0OH0.6SnYk46KmBi8HQm06bsAuojRdAk6TUDZ0NXG3_hJMwc",
+        "user": {
+            "id": 20710,
+            "euh_id": 126254,
+            "first_name": "pooja",
+            "last_name": "swami",
+            "user_name": "pooja swami",
+            "user_email_id": "swamipooja197071@gmail.com",
+            "user_mob_no": "9561457244",
+            "user_type": 1,
+            "user_login_type": 1,
+            "student_data": {
+                "college_name": "sangmeshwar auutonomous college solapur",
+                "university_name": "solapur university "
+            },
+            "employee_data": null,
+            "remaining_days": 90,
+            "login_count": 43
+        },
+        "login_type": 1
+    }
+}

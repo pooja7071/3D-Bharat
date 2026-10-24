@@ -1,0 +1,1362 @@
+{
+  "design": {
+    "zero_line_config": {
+      "zero_line_set": true,
+      "point1": {
+        "coordinates": [
+          302736.938,
+          2097905.25,
+          5.47
+        ],
+        "from_km": 101,
+        "from_chainage": 0.0
+      },
+      "point2": {
+        "coordinates": [
+          302720.0,
+          2097114.25,
+          5.47
+        ],
+        "to_km": 101,
+        "to_chainage": 780.0
+      },
+      "length_m_measured": 791.1813293070059,
+      "length_m_used": 791.1813293070059,
+      "interval_m": 20.0,
+      "reference_elevation_z": 5.47,
+      "saved_at": "2026-10-24T14:37:51.242458",
+      "saved_by": "pooja swami"
+    },
+    "surface_baseline": {
+      "baseline_type": "Surface",
+      "baseline_key": "surface",
+      "color": "green",
+      "width_meters": 20.0,
+      "zero_line_start": [
+        302736.938,
+        2097905.25,
+        5.47
+      ],
+      "zero_line_end": [
+        302720.0,
+        2097114.25,
+        5.47
+      ],
+      "zero_start_elevation": 5.47,
+      "total_chainage_length": 791.1813293070059,
+      "polylines": [
+        {
+          "start_chainage_m": 0.0,
+          "start_chainage_str": "101+00.000",
+          "end_chainage_m": 780.0,
+          "end_chainage_str": "101+780.000",
+          "points": [
+            {
+              "chainage_m": 0.0,
+              "chainage_str": "101+00.000",
+              "relative_elevation_m": 1.03870366052693,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302736.938,
+                2097905.25,
+                6.50870366052693
+              ]
+            },
+            {
+              "chainage_m": 80.0,
+              "chainage_str": "101+80.000",
+              "relative_elevation_m": 1.0135229657262768,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302735.225320555,
+                2097825.268335044,
+                6.4835229657262765
+              ]
+            },
+            {
+              "chainage_m": 140.0,
+              "chainage_str": "101+140.000",
+              "relative_elevation_m": 1.0135229657262768,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302733.9408109712,
+                2097765.282086327,
+                6.4835229657262765
+              ]
+            },
+            {
+              "chainage_m": 200.0,
+              "chainage_str": "101+200.000",
+              "relative_elevation_m": 0.9883422709256244,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302732.6563013874,
+                2097705.29583761,
+                6.458342270925624
+              ]
+            },
+            {
+              "chainage_m": 260.0,
+              "chainage_str": "101+260.000",
+              "relative_elevation_m": 0.9883422709256244,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302731.3717918036,
+                2097645.3095888933,
+                6.458342270925624
+              ]
+            },
+            {
+              "chainage_m": 340.0,
+              "chainage_str": "101+340.000",
+              "relative_elevation_m": 1.0135229657262768,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302729.65911235864,
+                2097565.3279239372,
+                6.4835229657262765
+              ]
+            },
+            {
+              "chainage_m": 380.0,
+              "chainage_str": "101+380.000",
+              "relative_elevation_m": -1.026113313126603,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302728.8027726361,
+                2097525.3370914594,
+                4.443886686873396
+              ]
+            },
+            {
+              "chainage_m": 440.0,
+              "chainage_str": "101+440.000",
+              "relative_elevation_m": -1.0512940079272557,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302727.51826305233,
+                2097465.3508427427,
+                4.418705992072744
+              ]
+            },
+            {
+              "chainage_m": 500.0,
+              "chainage_str": "101+500.000",
+              "relative_elevation_m": -1.026113313126603,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302726.23375346855,
+                2097405.3645940255,
+                4.443886686873396
+              ]
+            },
+            {
+              "chainage_m": 560.0,
+              "chainage_str": "101+560.000",
+              "relative_elevation_m": -1.0512940079272557,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302724.94924388477,
+                2097345.378345309,
+                4.418705992072744
+              ]
+            },
+            {
+              "chainage_m": 600.0,
+              "chainage_str": "101+600.000",
+              "relative_elevation_m": 0.8876194917230134,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302724.09290416224,
+                2097305.3875128306,
+                6.357619491723013
+              ]
+            },
+            {
+              "chainage_m": 660.0,
+              "chainage_str": "101+660.000",
+              "relative_elevation_m": 0.9883422709256244,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302722.80839457846,
+                2097245.401264114,
+                6.458342270925624
+              ]
+            },
+            {
+              "chainage_m": 720.0,
+              "chainage_str": "101+720.000",
+              "relative_elevation_m": 1.0135229657262768,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302721.5238849947,
+                2097185.4150153967,
+                6.4835229657262765
+              ]
+            },
+            {
+              "chainage_m": 780.0,
+              "chainage_str": "101+780.000",
+              "relative_elevation_m": 1.0135229657262768,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302720.2393754109,
+                2097125.42876668,
+                6.4835229657262765
+              ]
+            }
+          ]
+        }
+      ],
+      "reference_type": "Road"
+    },
+    "construction_baseline": {
+      "baseline_type": "Construction",
+      "baseline_key": "construction",
+      "color": "red",
+      "width_meters": 20.0,
+      "zero_line_start": [
+        302736.938,
+        2097905.25,
+        5.47
+      ],
+      "zero_line_end": [
+        302720.0,
+        2097114.25,
+        5.47
+      ],
+      "zero_start_elevation": 5.47,
+      "total_chainage_length": 791.1813293070059,
+      "polylines": [
+        {
+          "start_chainage_m": 0.0,
+          "start_chainage_str": "101+00.000",
+          "end_chainage_m": 780.0,
+          "end_chainage_str": "101+780.000",
+          "points": [
+            {
+              "chainage_m": 0.0,
+              "chainage_str": "101+00.000",
+              "relative_elevation_m": -2.0333411051527164,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302736.938,
+                2097905.25,
+                3.4366588948472834
+              ]
+            },
+            {
+              "chainage_m": 40.0,
+              "chainage_str": "101+40.000",
+              "relative_elevation_m": -2.0081604103520636,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302736.0816602775,
+                2097865.259167522,
+                3.461839589647936
+              ]
+            },
+            {
+              "chainage_m": 100.0,
+              "chainage_str": "101+100.000",
+              "relative_elevation_m": -2.0081604103520636,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302734.7971506937,
+                2097805.272918805,
+                3.461839589647936
+              ]
+            },
+            {
+              "chainage_m": 160.0,
+              "chainage_str": "101+160.000",
+              "relative_elevation_m": -2.0333411051527164,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302733.51264110993,
+                2097745.2866700883,
+                3.4366588948472834
+              ]
+            },
+            {
+              "chainage_m": 220.0,
+              "chainage_str": "101+220.000",
+              "relative_elevation_m": -2.0333411051527164,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302732.22813152615,
+                2097685.300421371,
+                3.4366588948472834
+              ]
+            },
+            {
+              "chainage_m": 280.0,
+              "chainage_str": "101+280.000",
+              "relative_elevation_m": -2.0333411051527164,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302730.94362194237,
+                2097625.3141726544,
+                3.4366588948472834
+              ]
+            },
+            {
+              "chainage_m": 320.0,
+              "chainage_str": "101+320.000",
+              "relative_elevation_m": -2.0333411051527164,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302730.08728221984,
+                2097585.3233401766,
+                3.4366588948472834
+              ]
+            },
+            {
+              "chainage_m": 380.0,
+              "chainage_str": "101+380.000",
+              "relative_elevation_m": -1.0764747027279085,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302728.8027726361,
+                2097525.3370914594,
+                4.393525297272092
+              ]
+            },
+            {
+              "chainage_m": 440.0,
+              "chainage_str": "101+440.000",
+              "relative_elevation_m": -1.0764747027279085,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302727.51826305233,
+                2097465.3508427427,
+                4.393525297272092
+              ]
+            },
+            {
+              "chainage_m": 500.0,
+              "chainage_str": "101+500.000",
+              "relative_elevation_m": -1.0512940079272557,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302726.23375346855,
+                2097405.3645940255,
+                4.418705992072744
+              ]
+            },
+            {
+              "chainage_m": 560.0,
+              "chainage_str": "101+560.000",
+              "relative_elevation_m": -1.026113313126603,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302724.94924388477,
+                2097345.378345309,
+                4.443886686873396
+              ]
+            },
+            {
+              "chainage_m": 600.0,
+              "chainage_str": "101+600.000",
+              "relative_elevation_m": -2.058521799953369,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302724.09290416224,
+                2097305.3875128306,
+                3.4114782000466306
+              ]
+            },
+            {
+              "chainage_m": 660.0,
+              "chainage_str": "101+660.000",
+              "relative_elevation_m": -2.058521799953369,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302722.80839457846,
+                2097245.401264114,
+                3.4114782000466306
+              ]
+            },
+            {
+              "chainage_m": 720.0,
+              "chainage_str": "101+720.000",
+              "relative_elevation_m": -2.0333411051527164,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302721.5238849947,
+                2097185.4150153967,
+                3.4366588948472834
+              ]
+            },
+            {
+              "chainage_m": 780.0,
+              "chainage_str": "101+780.000",
+              "relative_elevation_m": -1.9829797155514108,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302720.2393754109,
+                2097125.42876668,
+                3.487020284448589
+              ]
+            }
+          ]
+        }
+      ],
+      "reference_type": "Road"
+    },
+    "road_surface_baseline": {
+      "baseline_type": "Road Surface",
+      "baseline_key": "road_surface",
+      "color": "blue",
+      "width_meters": 20.0,
+      "zero_line_start": [
+        302736.938,
+        2097905.25,
+        5.47
+      ],
+      "zero_line_end": [
+        302720.0,
+        2097114.25,
+        5.47
+      ],
+      "zero_start_elevation": 5.47,
+      "total_chainage_length": 791.1813293070059,
+      "polylines": [
+        {
+          "start_chainage_m": 0.0,
+          "start_chainage_str": "101+00.000",
+          "end_chainage_m": 780.0,
+          "end_chainage_str": "101+780.000",
+          "points": [
+            {
+              "chainage_m": 0.0,
+              "chainage_str": "101+00.000",
+              "relative_elevation_m": 2.020750757752391,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302736.938,
+                2097905.25,
+                7.490750757752391
+              ],
+              "surface_to_road_surface_diff_m": 0.982
+            },
+            {
+              "chainage_m": 60.0,
+              "chainage_str": "101+60.000",
+              "relative_elevation_m": 2.0459314525530434,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302735.65349041624,
+                2097845.2637512833,
+                7.515931452553043
+              ],
+              "surface_to_road_surface_diff_m": 1.032
+            },
+            {
+              "chainage_m": 120.0,
+              "chainage_str": "101+120.000",
+              "relative_elevation_m": 1.9955700629517379,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302734.36898083246,
+                2097785.277502566,
+                7.465570062951738
+              ],
+              "surface_to_road_surface_diff_m": 0.982
+            },
+            {
+              "chainage_m": 180.0,
+              "chainage_str": "101+180.000",
+              "relative_elevation_m": 2.020750757752391,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302733.0844712487,
+                2097725.2912538494,
+                7.490750757752391
+              ],
+              "surface_to_road_surface_diff_m": 1.032
+            },
+            {
+              "chainage_m": 240.0,
+              "chainage_str": "101+240.000",
+              "relative_elevation_m": 2.020750757752391,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302731.7999616649,
+                2097665.305005132,
+                7.490750757752391
+              ],
+              "surface_to_road_surface_diff_m": 1.032
+            },
+            {
+              "chainage_m": 300.0,
+              "chainage_str": "101+300.000",
+              "relative_elevation_m": 2.0459314525530434,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302730.5154520811,
+                2097605.3187564155,
+                7.515931452553043
+              ],
+              "surface_to_road_surface_diff_m": 1.058
+            },
+            {
+              "chainage_m": 360.0,
+              "chainage_str": "101+360.000",
+              "relative_elevation_m": 1.9955700629517379,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302729.2309424974,
+                2097545.3325076983,
+                7.465570062951738
+              ],
+              "surface_to_road_surface_diff_m": 0.982
+            },
+            {
+              "chainage_m": 420.0,
+              "chainage_str": "101+420.000",
+              "relative_elevation_m": 1.9955700629517379,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302727.9464329136,
+                2097485.3462589816,
+                7.465570062951738
+              ],
+              "surface_to_road_surface_diff_m": 3.047
+            },
+            {
+              "chainage_m": 480.0,
+              "chainage_str": "101+480.000",
+              "relative_elevation_m": 1.9955700629517379,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302726.6619233298,
+                2097425.3600102644,
+                7.465570062951738
+              ],
+              "surface_to_road_surface_diff_m": 3.022
+            },
+            {
+              "chainage_m": 540.0,
+              "chainage_str": "101+540.000",
+              "relative_elevation_m": 1.9703893681510847,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302725.377413746,
+                2097365.3737615477,
+                7.440389368151084
+              ],
+              "surface_to_road_surface_diff_m": 3.022
+            },
+            {
+              "chainage_m": 600.0,
+              "chainage_str": "101+600.000",
+              "relative_elevation_m": 1.9703893681510847,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302724.09290416224,
+                2097305.3875128306,
+                7.440389368151084
+              ],
+              "surface_to_road_surface_diff_m": 1.083
+            },
+            {
+              "chainage_m": 660.0,
+              "chainage_str": "101+660.000",
+              "relative_elevation_m": 1.9955700629517379,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302722.80839457846,
+                2097245.401264114,
+                7.465570062951738
+              ],
+              "surface_to_road_surface_diff_m": 1.007
+            },
+            {
+              "chainage_m": 720.0,
+              "chainage_str": "101+720.000",
+              "relative_elevation_m": 1.9955700629517379,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302721.5238849947,
+                2097185.4150153967,
+                7.465570062951738
+              ],
+              "surface_to_road_surface_diff_m": 0.982
+            },
+            {
+              "chainage_m": 780.0,
+              "chainage_str": "101+780.000",
+              "relative_elevation_m": 2.0459314525530434,
+              "width_m": 20.0,
+              "world_coordinates": [
+                302720.2393754109,
+                2097125.42876668,
+                7.515931452553043
+              ],
+              "surface_to_road_surface_diff_m": 1.032
+            }
+          ]
+        }
+      ],
+      "reference_type": "Road",
+      "approach_road_wall_configuration": {
+        "wall_width": 0.0
+      }
+    },
+    "deck_line": null,
+    "projection_line": null,
+    "operational_config": {
+      "zero_line_start": [
+        302736.938,
+        2097905.25,
+        5.47
+      ],
+      "zero_line_end": [
+        302720.0,
+        2097114.25,
+        5.47
+      ],
+      "zero_start_elevation": 5.47,
+      "total_chainage_length": 791.1813293070059,
+      "volume_method": "Average End Area (Trapezoidal)",
+      "segments": [
+        {
+          "from_chainage_str": "101+00.000",
+          "to_chainage_str": "101+60.000",
+          "from_km": 101,
+          "from_chainage": 0,
+          "to_km": 101,
+          "to_chainage": 60,
+          "operation_type": "digging",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 3652.46,
+          "surface_to_construction_line_avg_m": 3.044,
+          "construction_to_road_surface_line_avg_m": 4.048,
+          "surface_to_road_surface_line_avg_m": 1.004,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        },
+        {
+          "from_chainage_str": "101+120.000",
+          "to_chainage_str": "101+180.000",
+          "from_km": 101,
+          "from_chainage": 120,
+          "to_km": 101,
+          "to_chainage": 180,
+          "operation_type": "digging",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 3646.16,
+          "surface_to_construction_line_avg_m": 3.038,
+          "construction_to_road_surface_line_avg_m": 4.037,
+          "surface_to_road_surface_line_avg_m": 0.999,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        },
+        {
+          "from_chainage_str": "101+180.000",
+          "to_chainage_str": "101+240.000",
+          "from_km": 101,
+          "from_chainage": 180,
+          "to_km": 101,
+          "to_chainage": 240,
+          "operation_type": "digging",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 3626.02,
+          "surface_to_construction_line_avg_m": 3.022,
+          "construction_to_road_surface_line_avg_m": 4.054,
+          "surface_to_road_surface_line_avg_m": 1.032,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        },
+        {
+          "from_chainage_str": "101+240.000",
+          "to_chainage_str": "101+300.000",
+          "from_km": 101,
+          "from_chainage": 240,
+          "to_km": 101,
+          "to_chainage": 300,
+          "operation_type": "digging",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 3629.8,
+          "surface_to_construction_line_avg_m": 3.025,
+          "construction_to_road_surface_line_avg_m": 4.067,
+          "surface_to_road_surface_line_avg_m": 1.042,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        },
+        {
+          "from_chainage_str": "101+300.000",
+          "to_chainage_str": "101+360.000",
+          "from_km": 101,
+          "from_chainage": 300,
+          "to_km": 101,
+          "to_chainage": 360,
+          "operation_type": "digging",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 3461.09,
+          "surface_to_construction_line_avg_m": 2.884,
+          "construction_to_road_surface_line_avg_m": 3.895,
+          "surface_to_road_surface_line_avg_m": 1.01,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        },
+        {
+          "from_chainage_str": "101+360.000",
+          "to_chainage_str": "101+420.000",
+          "from_km": 101,
+          "from_chainage": 360,
+          "to_km": 101,
+          "to_chainage": 420,
+          "operation_type": "balanced",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 0.0,
+          "surface_to_construction_line_avg_m": 0.046,
+          "construction_to_road_surface_line_avg_m": 3.072,
+          "surface_to_road_surface_line_avg_m": 3.026,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        },
+        {
+          "from_chainage_str": "101+420.000",
+          "to_chainage_str": "101+480.000",
+          "from_km": 101,
+          "from_chainage": 420,
+          "to_km": 101,
+          "to_chainage": 480,
+          "operation_type": "balanced",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 0.0,
+          "surface_to_construction_line_avg_m": 0.025,
+          "construction_to_road_surface_line_avg_m": 3.068,
+          "surface_to_road_surface_line_avg_m": 3.043,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        },
+        {
+          "from_chainage_str": "101+480.000",
+          "to_chainage_str": "101+540.000",
+          "from_km": 101,
+          "from_chainage": 480,
+          "to_km": 101,
+          "to_chainage": 540,
+          "operation_type": "balanced",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 0.0,
+          "surface_to_construction_line_avg_m": 0.017,
+          "construction_to_road_surface_line_avg_m": 3.03,
+          "surface_to_road_surface_line_avg_m": 3.013,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        },
+        {
+          "from_chainage_str": "101+540.000",
+          "to_chainage_str": "101+600.000",
+          "from_km": 101,
+          "from_chainage": 540,
+          "to_km": 101,
+          "to_chainage": 600,
+          "operation_type": "digging",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 861.18,
+          "surface_to_construction_line_avg_m": 0.718,
+          "construction_to_road_surface_line_avg_m": 3.255,
+          "surface_to_road_surface_line_avg_m": 2.537,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        },
+        {
+          "from_chainage_str": "101+60.000",
+          "to_chainage_str": "101+120.000",
+          "from_km": 101,
+          "from_chainage": 60,
+          "to_km": 101,
+          "to_chainage": 120,
+          "operation_type": "digging",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 3626.02,
+          "surface_to_construction_line_avg_m": 3.022,
+          "construction_to_road_surface_line_avg_m": 4.029,
+          "surface_to_road_surface_line_avg_m": 1.007,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        },
+        {
+          "from_chainage_str": "101+600.000",
+          "to_chainage_str": "101+660.000",
+          "from_km": 101,
+          "from_chainage": 600,
+          "to_km": 101,
+          "to_chainage": 660,
+          "operation_type": "digging",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 3595.8,
+          "surface_to_construction_line_avg_m": 2.997,
+          "construction_to_road_surface_line_avg_m": 4.042,
+          "surface_to_road_surface_line_avg_m": 1.045,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        },
+        {
+          "from_chainage_str": "101+660.000",
+          "to_chainage_str": "101+720.000",
+          "from_km": 101,
+          "from_chainage": 660,
+          "to_km": 101,
+          "to_chainage": 720,
+          "operation_type": "digging",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 3656.24,
+          "surface_to_construction_line_avg_m": 3.047,
+          "construction_to_road_surface_line_avg_m": 4.042,
+          "surface_to_road_surface_line_avg_m": 0.995,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        },
+        {
+          "from_chainage_str": "101+720.000",
+          "to_chainage_str": "101+780.000",
+          "from_km": 101,
+          "from_chainage": 720,
+          "to_km": 101,
+          "to_chainage": 780,
+          "operation_type": "digging",
+          "cut_volume_ref_construction_m3": 0.0,
+          "cut_volume_ref_road_surface_m3": 0.0,
+          "digging_volume_m3": 3626.02,
+          "surface_to_construction_line_avg_m": 3.022,
+          "construction_to_road_surface_line_avg_m": 4.029,
+          "surface_to_road_surface_line_avg_m": 1.007,
+          "width_surface_m": 20.0,
+          "width_construction_m": 20.0,
+          "width_road_surface_m": 20.0,
+          "road_angle": 0.0,
+          "road_angle_direction": 0,
+          "approach_angle": 0.0,
+          "approach_angle_direction": 0
+        }
+      ]
+    }
+  },
+  "construction": {
+    "zero_line_config": null,
+    "materials": {}
+  },
+  "lane_marking": {
+    "from_km": 101,
+    "from_chainage": 0,
+    "to_km": 101,
+    "to_chainage": 780,
+    "from_chainage_str": "101+000",
+    "to_chainage_str": "101+780",
+    "from chainage coordinates : (101+000)": {
+      "x": 302736.938,
+      "y": 2097905.25,
+      "z": 7.490750757752391
+    },
+    "to chainage coordinates : (101+780)": {
+      "x": 302720.2393754109,
+      "y": 2097125.42876668,
+      "z": 7.515931452553043
+    },
+    "center_lane_name": "Divider",
+    "center_lane_width": 3.0,
+    "Left Lane 1 Name": "L1",
+    "Left Lane 1 width": 3.5,
+    "Left Lane 2 Name": "L2",
+    "Left Lane 2 width": 3.5,
+    "Right Lane 1 name": "R!",
+    "Right Lane 1 width": 3.5,
+    "Right Lane 2 name": "R2",
+    "Right Lane 2 width": 3.5,
+    "Left Shoulder lane name": "Left side wall",
+    "Left shoulder lane width": 1.5,
+    "Right shoulder lane name": "Right side wall",
+    "Right shoulder lane width": 1.5,
+    "from_chainage_rel": 0.0,
+    "to_chainage_rel": 780.0,
+    "from_xyz": [
+      302736.938,
+      2097905.25,
+      7.490750757752391
+    ],
+    "to_xyz": [
+      302720.2393754109,
+      2097125.42876668,
+      7.515931452553043
+    ],
+    "lanes_left": 2,
+    "lanes_right": 2,
+    "hard_shoulder_left": true,
+    "hard_shoulder_right": true
+  },
+  "reference_assets": {
+    "side_wall": {
+      "Left side wall": {
+        "asset_id": "side_wall",
+        "asset_name": "Side Wall",
+        "lane_id": "Left side wall",
+        "lane_name": "Left side wall",
+        "width": 0.5,
+        "height": 1.0,
+        "length": 780.0,
+        "from_km": "101",
+        "from_chainage": "0",
+        "to_km": "101",
+        "to_chainage": "780",
+        "color": "#ffffff",
+        "is_drop_mode": false
+      },
+      "Right side wall": {
+        "asset_id": "side_wall",
+        "asset_name": "Side Wall",
+        "lane_id": "Right side wall",
+        "lane_name": "Right side wall",
+        "width": 0.5,
+        "height": 1.0,
+        "length": 780.0,
+        "from_km": "101",
+        "from_chainage": "0",
+        "to_km": "101",
+        "to_chainage": "780",
+        "color": "#ffffff",
+        "is_drop_mode": false
+      },
+      "Divider": {
+        "asset_id": "side_wall",
+        "asset_name": "Side Wall",
+        "lane_id": "Divider",
+        "lane_name": "Divider",
+        "width": 0.5,
+        "height": 2.0,
+        "length": 780.0,
+        "from_km": "101",
+        "from_chainage": "0",
+        "to_km": "101",
+        "to_chainage": "780",
+        "color": "#ffffff",
+        "is_drop_mode": false
+      }
+    },
+    "divider": {
+      "Divider": {
+        "asset_id": "divider",
+        "asset_name": "Divider",
+        "lane_id": "Divider",
+        "lane_name": "Divider",
+        "width": 0.5,
+        "height": 1.0,
+        "length": 780.0,
+        "from_km": "101",
+        "from_chainage": "0",
+        "to_km": "101",
+        "to_chainage": "780",
+        "color": "#ffffff",
+        "is_drop_mode": false
+      }
+    },
+    "footpath": {
+      "Left side wall": {
+        "asset_id": "footpath",
+        "asset_name": "Footpath",
+        "lane_id": "Left side wall",
+        "lane_name": "Left side wall",
+        "width": 0.5,
+        "height": 1.0,
+        "length": 780.0,
+        "from_km": "101",
+        "from_chainage": "0",
+        "to_km": "101",
+        "to_chainage": "780",
+        "color": "#ffff00",
+        "is_drop_mode": false
+      }
+    }
+  },
+  "asset_mapping": [
+    {
+      "pole_type": "signal_pole",
+      "title": "Two Direction Signal Pole",
+      "from_km": "101",
+      "from_chainage": "0",
+      "to_km": "101",
+      "to_chainage": "780",
+      "chainage_interval": 20.0,
+      "total_length": 780.0,
+      "lane_id": "Left side wall",
+      "lane_name": "Left side wall",
+      "ref_asset_name": "Left side wall",
+      "pole_config": {
+        "pole.height": 12.0,
+        "pole.diameter": 0.12,
+        "cantilever.diameter": 0.07,
+        "cantilever.length": 2.0,
+        "cantilever.angle_from_vertical_deg": 90.0,
+        "traffic_light.plate_height": 3.0,
+        "traffic_light.plate_width": 0.5,
+        "traffic_light.plate_thickness": 0.2,
+        "traffic_light.light_radius": 0.15
+      },
+      "num_poles": 40,
+      "poles": [
+        {
+          "chainage_abs": 101000.0,
+          "chainage_rel": 0.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101020.0,
+          "chainage_rel": 20.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101040.0,
+          "chainage_rel": 40.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101060.0,
+          "chainage_rel": 60.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101080.0,
+          "chainage_rel": 80.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101100.0,
+          "chainage_rel": 100.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101120.0,
+          "chainage_rel": 120.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101140.0,
+          "chainage_rel": 140.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101160.0,
+          "chainage_rel": 160.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101180.0,
+          "chainage_rel": 180.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101200.0,
+          "chainage_rel": 200.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101220.0,
+          "chainage_rel": 220.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101240.0,
+          "chainage_rel": 240.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101260.0,
+          "chainage_rel": 260.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101280.0,
+          "chainage_rel": 280.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101300.0,
+          "chainage_rel": 300.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101320.0,
+          "chainage_rel": 320.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101340.0,
+          "chainage_rel": 340.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101360.0,
+          "chainage_rel": 360.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101380.0,
+          "chainage_rel": 380.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101400.0,
+          "chainage_rel": 400.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101420.0,
+          "chainage_rel": 420.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101440.0,
+          "chainage_rel": 440.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101460.0,
+          "chainage_rel": 460.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101480.0,
+          "chainage_rel": 480.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101500.0,
+          "chainage_rel": 500.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101520.0,
+          "chainage_rel": 520.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101540.0,
+          "chainage_rel": 540.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101560.0,
+          "chainage_rel": 560.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101580.0,
+          "chainage_rel": 580.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101600.0,
+          "chainage_rel": 600.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101620.0,
+          "chainage_rel": 620.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101640.0,
+          "chainage_rel": 640.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101660.0,
+          "chainage_rel": 660.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101680.0,
+          "chainage_rel": 680.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101700.0,
+          "chainage_rel": 700.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101720.0,
+          "chainage_rel": 720.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101740.0,
+          "chainage_rel": 740.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101760.0,
+          "chainage_rel": 760.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        },
+        {
+          "chainage_abs": 101780.0,
+          "chainage_rel": 780.0,
+          "pole_type": "signal_pole",
+          "lane_name": "Left side wall",
+          "ref_asset": "Left side wall"
+        }
+      ],
+      "pole_color": "#ffff00",
+      "cantilever_color": "#0055ff",
+      "two_direction": true
+    }
+  ],
+  "saved_at": "2026-10-24T14:37:51.244455",
+  "saved_by": "pooja swami"
+}

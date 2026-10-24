@@ -1,0 +1,3292 @@
+{
+    "materials": [
+        {
+            "material_line_folder": "M1",
+            "material_line_name": "M1",
+            "material_line_id": "M1",
+            "rmh_id": 125001,
+            "reference_baseline": "Construction",
+            "is_below_ground": true,
+            "overall_from_chainage": {
+                "coordinates": [
+                    302733.513,
+                    2097745.287,
+                    5.47
+                ],
+                "chainage_m": 160.0,
+                "chainage_str": "101+160"
+            },
+            "overall_to_chainage": {
+                "coordinates": [
+                    302722.38,
+                    2097225.406,
+                    5.47
+                ],
+                "chainage_m": 680.0,
+                "chainage_str": "101+680"
+            },
+            "total_segments": 26,
+            "segments": [
+                {
+                    "segment_number": 1,
+                    "segment_label": "M1-1",
+                    "from_chainage_m": 160.0,
+                    "to_chainage_m": 180.0,
+                    "from_chainage_str": "101+160",
+                    "to_chainage_str": "101+180",
+                    "from_coordinates": [
+                        302733.513,
+                        2097745.287,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302733.084,
+                        2097725.291,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 160.0,
+                            "relative_elevation_m": -0.976,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.057,
+                            "thickness_positive_m": 1.057,
+                            "absolute_coordinates": [
+                                302733.513,
+                                2097745.287,
+                                4.494
+                            ]
+                        },
+                        {
+                            "chainage_m": 180.0,
+                            "relative_elevation_m": -0.978,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.055,
+                            "thickness_positive_m": 1.055,
+                            "absolute_coordinates": [
+                                302733.084,
+                                2097725.291,
+                                4.492
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 422.4,
+                    "avg_height_m": 1.056,
+                    "max_height_m": 1.057,
+                    "min_height_m": 1.055
+                },
+                {
+                    "segment_number": 2,
+                    "segment_label": "M1-2",
+                    "from_chainage_m": 180.0,
+                    "to_chainage_m": 200.0,
+                    "from_chainage_str": "101+180",
+                    "to_chainage_str": "101+200",
+                    "from_coordinates": [
+                        302733.084,
+                        2097725.291,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302732.656,
+                        2097705.296,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 180.0,
+                            "relative_elevation_m": -0.978,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.055,
+                            "thickness_positive_m": 1.055,
+                            "absolute_coordinates": [
+                                302733.084,
+                                2097725.291,
+                                4.492
+                            ]
+                        },
+                        {
+                            "chainage_m": 200.0,
+                            "relative_elevation_m": -0.98,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.053,
+                            "thickness_positive_m": 1.053,
+                            "absolute_coordinates": [
+                                302732.656,
+                                2097705.296,
+                                4.49
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 421.6,
+                    "avg_height_m": 1.054,
+                    "max_height_m": 1.055,
+                    "min_height_m": 1.053
+                },
+                {
+                    "segment_number": 3,
+                    "segment_label": "M1-3",
+                    "from_chainage_m": 200.0,
+                    "to_chainage_m": 220.0,
+                    "from_chainage_str": "101+200",
+                    "to_chainage_str": "101+220",
+                    "from_coordinates": [
+                        302732.656,
+                        2097705.296,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302732.228,
+                        2097685.3,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 200.0,
+                            "relative_elevation_m": -0.98,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.053,
+                            "thickness_positive_m": 1.053,
+                            "absolute_coordinates": [
+                                302732.656,
+                                2097705.296,
+                                4.49
+                            ]
+                        },
+                        {
+                            "chainage_m": 220.0,
+                            "relative_elevation_m": -0.982,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.051,
+                            "thickness_positive_m": 1.051,
+                            "absolute_coordinates": [
+                                302732.228,
+                                2097685.3,
+                                4.488
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 420.8,
+                    "avg_height_m": 1.052,
+                    "max_height_m": 1.053,
+                    "min_height_m": 1.051
+                },
+                {
+                    "segment_number": 4,
+                    "segment_label": "M1-4",
+                    "from_chainage_m": 220.0,
+                    "to_chainage_m": 240.0,
+                    "from_chainage_str": "101+220",
+                    "to_chainage_str": "101+240",
+                    "from_coordinates": [
+                        302732.228,
+                        2097685.3,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302731.8,
+                        2097665.305,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 220.0,
+                            "relative_elevation_m": -0.982,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.051,
+                            "thickness_positive_m": 1.051,
+                            "absolute_coordinates": [
+                                302732.228,
+                                2097685.3,
+                                4.488
+                            ]
+                        },
+                        {
+                            "chainage_m": 240.0,
+                            "relative_elevation_m": -0.983,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.05,
+                            "thickness_positive_m": 1.05,
+                            "absolute_coordinates": [
+                                302731.8,
+                                2097665.305,
+                                4.487
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 420.2,
+                    "avg_height_m": 1.05,
+                    "max_height_m": 1.051,
+                    "min_height_m": 1.05
+                },
+                {
+                    "segment_number": 5,
+                    "segment_label": "M1-5",
+                    "from_chainage_m": 240.0,
+                    "to_chainage_m": 260.0,
+                    "from_chainage_str": "101+240",
+                    "to_chainage_str": "101+260",
+                    "from_coordinates": [
+                        302731.8,
+                        2097665.305,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302731.372,
+                        2097645.31,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 240.0,
+                            "relative_elevation_m": -0.983,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.05,
+                            "thickness_positive_m": 1.05,
+                            "absolute_coordinates": [
+                                302731.8,
+                                2097665.305,
+                                4.487
+                            ]
+                        },
+                        {
+                            "chainage_m": 260.0,
+                            "relative_elevation_m": -0.985,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.048,
+                            "thickness_positive_m": 1.048,
+                            "absolute_coordinates": [
+                                302731.372,
+                                2097645.31,
+                                4.485
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 419.6,
+                    "avg_height_m": 1.049,
+                    "max_height_m": 1.05,
+                    "min_height_m": 1.048
+                },
+                {
+                    "segment_number": 6,
+                    "segment_label": "M1-6",
+                    "from_chainage_m": 260.0,
+                    "to_chainage_m": 280.0,
+                    "from_chainage_str": "101+260",
+                    "to_chainage_str": "101+280",
+                    "from_coordinates": [
+                        302731.372,
+                        2097645.31,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302730.944,
+                        2097625.314,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 260.0,
+                            "relative_elevation_m": -0.985,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.048,
+                            "thickness_positive_m": 1.048,
+                            "absolute_coordinates": [
+                                302731.372,
+                                2097645.31,
+                                4.485
+                            ]
+                        },
+                        {
+                            "chainage_m": 280.0,
+                            "relative_elevation_m": -0.987,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.046,
+                            "thickness_positive_m": 1.046,
+                            "absolute_coordinates": [
+                                302730.944,
+                                2097625.314,
+                                4.483
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 418.8,
+                    "avg_height_m": 1.047,
+                    "max_height_m": 1.048,
+                    "min_height_m": 1.046
+                },
+                {
+                    "segment_number": 7,
+                    "segment_label": "M1-7",
+                    "from_chainage_m": 280.0,
+                    "to_chainage_m": 300.0,
+                    "from_chainage_str": "101+280",
+                    "to_chainage_str": "101+300",
+                    "from_coordinates": [
+                        302730.944,
+                        2097625.314,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302730.515,
+                        2097605.319,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 280.0,
+                            "relative_elevation_m": -0.987,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.046,
+                            "thickness_positive_m": 1.046,
+                            "absolute_coordinates": [
+                                302730.944,
+                                2097625.314,
+                                4.483
+                            ]
+                        },
+                        {
+                            "chainage_m": 300.0,
+                            "relative_elevation_m": -0.989,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.044,
+                            "thickness_positive_m": 1.044,
+                            "absolute_coordinates": [
+                                302730.515,
+                                2097605.319,
+                                4.481
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 418.0,
+                    "avg_height_m": 1.045,
+                    "max_height_m": 1.046,
+                    "min_height_m": 1.044
+                },
+                {
+                    "segment_number": 8,
+                    "segment_label": "M1-8",
+                    "from_chainage_m": 300.0,
+                    "to_chainage_m": 320.0,
+                    "from_chainage_str": "101+300",
+                    "to_chainage_str": "101+320",
+                    "from_coordinates": [
+                        302730.515,
+                        2097605.319,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302730.087,
+                        2097585.323,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 300.0,
+                            "relative_elevation_m": -0.989,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.044,
+                            "thickness_positive_m": 1.044,
+                            "absolute_coordinates": [
+                                302730.515,
+                                2097605.319,
+                                4.481
+                            ]
+                        },
+                        {
+                            "chainage_m": 320.0,
+                            "relative_elevation_m": -0.991,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.042,
+                            "thickness_positive_m": 1.042,
+                            "absolute_coordinates": [
+                                302730.087,
+                                2097585.323,
+                                4.479
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 417.2,
+                    "avg_height_m": 1.043,
+                    "max_height_m": 1.044,
+                    "min_height_m": 1.042
+                },
+                {
+                    "segment_number": 9,
+                    "segment_label": "M1-9",
+                    "from_chainage_m": 320.0,
+                    "to_chainage_m": 340.0,
+                    "from_chainage_str": "101+320",
+                    "to_chainage_str": "101+340",
+                    "from_coordinates": [
+                        302730.087,
+                        2097585.323,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302729.659,
+                        2097565.328,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 320.0,
+                            "relative_elevation_m": -0.991,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 1.042,
+                            "thickness_positive_m": 1.042,
+                            "absolute_coordinates": [
+                                302730.087,
+                                2097585.323,
+                                4.479
+                            ]
+                        },
+                        {
+                            "chainage_m": 340.0,
+                            "relative_elevation_m": -0.993,
+                            "reference_elevation_m": -1.714,
+                            "actual_thickness_m": 0.721,
+                            "thickness_positive_m": 0.721,
+                            "absolute_coordinates": [
+                                302729.659,
+                                2097565.328,
+                                4.477
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 352.6,
+                    "avg_height_m": 0.881,
+                    "max_height_m": 1.042,
+                    "min_height_m": 0.721
+                },
+                {
+                    "segment_number": 10,
+                    "segment_label": "M1-10",
+                    "from_chainage_m": 340.0,
+                    "to_chainage_m": 360.0,
+                    "from_chainage_str": "101+340",
+                    "to_chainage_str": "101+360",
+                    "from_coordinates": [
+                        302729.659,
+                        2097565.328,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302729.231,
+                        2097545.333,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 340.0,
+                            "relative_elevation_m": -0.993,
+                            "reference_elevation_m": -1.714,
+                            "actual_thickness_m": 0.721,
+                            "thickness_positive_m": 0.721,
+                            "absolute_coordinates": [
+                                302729.659,
+                                2097565.328,
+                                4.477
+                            ]
+                        },
+                        {
+                            "chainage_m": 360.0,
+                            "relative_elevation_m": -0.995,
+                            "reference_elevation_m": -1.395,
+                            "actual_thickness_m": 0.4,
+                            "thickness_positive_m": 0.4,
+                            "absolute_coordinates": [
+                                302729.231,
+                                2097545.333,
+                                4.475
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 224.2,
+                    "avg_height_m": 0.56,
+                    "max_height_m": 0.721,
+                    "min_height_m": 0.4
+                },
+                {
+                    "segment_number": 11,
+                    "segment_label": "M1-11",
+                    "from_chainage_m": 360.0,
+                    "to_chainage_m": 380.0,
+                    "from_chainage_str": "101+360",
+                    "to_chainage_str": "101+380",
+                    "from_coordinates": [
+                        302729.231,
+                        2097545.333,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302728.803,
+                        2097525.337,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 360.0,
+                            "relative_elevation_m": -0.995,
+                            "reference_elevation_m": -1.395,
+                            "actual_thickness_m": 0.4,
+                            "thickness_positive_m": 0.4,
+                            "absolute_coordinates": [
+                                302729.231,
+                                2097545.333,
+                                4.475
+                            ]
+                        },
+                        {
+                            "chainage_m": 380.0,
+                            "relative_elevation_m": -0.997,
+                            "reference_elevation_m": -1.076,
+                            "actual_thickness_m": 0.079,
+                            "thickness_positive_m": 0.079,
+                            "absolute_coordinates": [
+                                302728.803,
+                                2097525.337,
+                                4.473
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 95.8,
+                    "avg_height_m": 0.24,
+                    "max_height_m": 0.4,
+                    "min_height_m": 0.079
+                },
+                {
+                    "segment_number": 12,
+                    "segment_label": "M1-12",
+                    "from_chainage_m": 380.0,
+                    "to_chainage_m": 400.0,
+                    "from_chainage_str": "101+380",
+                    "to_chainage_str": "101+400",
+                    "from_coordinates": [
+                        302728.803,
+                        2097525.337,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302728.375,
+                        2097505.342,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 380.0,
+                            "relative_elevation_m": -0.997,
+                            "reference_elevation_m": -1.076,
+                            "actual_thickness_m": 0.079,
+                            "thickness_positive_m": 0.079,
+                            "absolute_coordinates": [
+                                302728.803,
+                                2097525.337,
+                                4.473
+                            ]
+                        },
+                        {
+                            "chainage_m": 400.0,
+                            "relative_elevation_m": -0.999,
+                            "reference_elevation_m": -1.076,
+                            "actual_thickness_m": 0.077,
+                            "thickness_positive_m": 0.077,
+                            "absolute_coordinates": [
+                                302728.375,
+                                2097505.342,
+                                4.471
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 31.2,
+                    "avg_height_m": 0.078,
+                    "max_height_m": 0.079,
+                    "min_height_m": 0.077
+                },
+                {
+                    "segment_number": 13,
+                    "segment_label": "M1-13",
+                    "from_chainage_m": 400.0,
+                    "to_chainage_m": 420.0,
+                    "from_chainage_str": "101+400",
+                    "to_chainage_str": "101+420",
+                    "from_coordinates": [
+                        302728.375,
+                        2097505.342,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302727.946,
+                        2097485.346,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 400.0,
+                            "relative_elevation_m": -0.999,
+                            "reference_elevation_m": -1.076,
+                            "actual_thickness_m": 0.077,
+                            "thickness_positive_m": 0.077,
+                            "absolute_coordinates": [
+                                302728.375,
+                                2097505.342,
+                                4.471
+                            ]
+                        },
+                        {
+                            "chainage_m": 420.0,
+                            "relative_elevation_m": -1.001,
+                            "reference_elevation_m": -1.076,
+                            "actual_thickness_m": 0.075,
+                            "thickness_positive_m": 0.075,
+                            "absolute_coordinates": [
+                                302727.946,
+                                2097485.346,
+                                4.469
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 30.4,
+                    "avg_height_m": 0.076,
+                    "max_height_m": 0.077,
+                    "min_height_m": 0.075
+                },
+                {
+                    "segment_number": 14,
+                    "segment_label": "M1-14",
+                    "from_chainage_m": 420.0,
+                    "to_chainage_m": 440.0,
+                    "from_chainage_str": "101+420",
+                    "to_chainage_str": "101+440",
+                    "from_coordinates": [
+                        302727.946,
+                        2097485.346,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302727.518,
+                        2097465.351,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 420.0,
+                            "relative_elevation_m": -1.001,
+                            "reference_elevation_m": -1.076,
+                            "actual_thickness_m": 0.075,
+                            "thickness_positive_m": 0.075,
+                            "absolute_coordinates": [
+                                302727.946,
+                                2097485.346,
+                                4.469
+                            ]
+                        },
+                        {
+                            "chainage_m": 440.0,
+                            "relative_elevation_m": -1.003,
+                            "reference_elevation_m": -1.076,
+                            "actual_thickness_m": 0.073,
+                            "thickness_positive_m": 0.073,
+                            "absolute_coordinates": [
+                                302727.518,
+                                2097465.351,
+                                4.467
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 29.6,
+                    "avg_height_m": 0.074,
+                    "max_height_m": 0.075,
+                    "min_height_m": 0.073
+                },
+                {
+                    "segment_number": 15,
+                    "segment_label": "M1-15",
+                    "from_chainage_m": 440.0,
+                    "to_chainage_m": 460.0,
+                    "from_chainage_str": "101+440",
+                    "to_chainage_str": "101+460",
+                    "from_coordinates": [
+                        302727.518,
+                        2097465.351,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302727.09,
+                        2097445.355,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 440.0,
+                            "relative_elevation_m": -1.003,
+                            "reference_elevation_m": -1.076,
+                            "actual_thickness_m": 0.073,
+                            "thickness_positive_m": 0.073,
+                            "absolute_coordinates": [
+                                302727.518,
+                                2097465.351,
+                                4.467
+                            ]
+                        },
+                        {
+                            "chainage_m": 460.0,
+                            "relative_elevation_m": -1.005,
+                            "reference_elevation_m": -1.068,
+                            "actual_thickness_m": 0.063,
+                            "thickness_positive_m": 0.063,
+                            "absolute_coordinates": [
+                                302727.09,
+                                2097445.355,
+                                4.465
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 27.2,
+                    "avg_height_m": 0.068,
+                    "max_height_m": 0.073,
+                    "min_height_m": 0.063
+                },
+                {
+                    "segment_number": 16,
+                    "segment_label": "M1-16",
+                    "from_chainage_m": 460.0,
+                    "to_chainage_m": 480.0,
+                    "from_chainage_str": "101+460",
+                    "to_chainage_str": "101+480",
+                    "from_coordinates": [
+                        302727.09,
+                        2097445.355,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302726.662,
+                        2097425.36,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 460.0,
+                            "relative_elevation_m": -1.005,
+                            "reference_elevation_m": -1.068,
+                            "actual_thickness_m": 0.063,
+                            "thickness_positive_m": 0.063,
+                            "absolute_coordinates": [
+                                302727.09,
+                                2097445.355,
+                                4.465
+                            ]
+                        },
+                        {
+                            "chainage_m": 480.0,
+                            "relative_elevation_m": -1.007,
+                            "reference_elevation_m": -1.06,
+                            "actual_thickness_m": 0.053,
+                            "thickness_positive_m": 0.053,
+                            "absolute_coordinates": [
+                                302726.662,
+                                2097425.36,
+                                4.463
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 23.2,
+                    "avg_height_m": 0.058,
+                    "max_height_m": 0.063,
+                    "min_height_m": 0.053
+                },
+                {
+                    "segment_number": 17,
+                    "segment_label": "M1-17",
+                    "from_chainage_m": 480.0,
+                    "to_chainage_m": 500.0,
+                    "from_chainage_str": "101+480",
+                    "to_chainage_str": "101+500",
+                    "from_coordinates": [
+                        302726.662,
+                        2097425.36,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302726.234,
+                        2097405.365,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 480.0,
+                            "relative_elevation_m": -1.007,
+                            "reference_elevation_m": -1.06,
+                            "actual_thickness_m": 0.053,
+                            "thickness_positive_m": 0.053,
+                            "absolute_coordinates": [
+                                302726.662,
+                                2097425.36,
+                                4.463
+                            ]
+                        },
+                        {
+                            "chainage_m": 500.0,
+                            "relative_elevation_m": -1.009,
+                            "reference_elevation_m": -1.051,
+                            "actual_thickness_m": 0.042,
+                            "thickness_positive_m": 0.042,
+                            "absolute_coordinates": [
+                                302726.234,
+                                2097405.365,
+                                4.461
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 19.0,
+                    "avg_height_m": 0.048,
+                    "max_height_m": 0.053,
+                    "min_height_m": 0.042
+                },
+                {
+                    "segment_number": 18,
+                    "segment_label": "M1-18",
+                    "from_chainage_m": 500.0,
+                    "to_chainage_m": 520.0,
+                    "from_chainage_str": "101+500",
+                    "to_chainage_str": "101+520",
+                    "from_coordinates": [
+                        302726.234,
+                        2097405.365,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302725.806,
+                        2097385.369,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 500.0,
+                            "relative_elevation_m": -1.009,
+                            "reference_elevation_m": -1.051,
+                            "actual_thickness_m": 0.042,
+                            "thickness_positive_m": 0.042,
+                            "absolute_coordinates": [
+                                302726.234,
+                                2097405.365,
+                                4.461
+                            ]
+                        },
+                        {
+                            "chainage_m": 520.0,
+                            "relative_elevation_m": -1.011,
+                            "reference_elevation_m": -1.043,
+                            "actual_thickness_m": 0.032,
+                            "thickness_positive_m": 0.032,
+                            "absolute_coordinates": [
+                                302725.806,
+                                2097385.369,
+                                4.459
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 14.8,
+                    "avg_height_m": 0.037,
+                    "max_height_m": 0.042,
+                    "min_height_m": 0.032
+                },
+                {
+                    "segment_number": 19,
+                    "segment_label": "M1-19",
+                    "from_chainage_m": 520.0,
+                    "to_chainage_m": 540.0,
+                    "from_chainage_str": "101+520",
+                    "to_chainage_str": "101+540",
+                    "from_coordinates": [
+                        302725.806,
+                        2097385.369,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302725.377,
+                        2097365.374,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 520.0,
+                            "relative_elevation_m": -1.011,
+                            "reference_elevation_m": -1.043,
+                            "actual_thickness_m": 0.032,
+                            "thickness_positive_m": 0.032,
+                            "absolute_coordinates": [
+                                302725.806,
+                                2097385.369,
+                                4.459
+                            ]
+                        },
+                        {
+                            "chainage_m": 540.0,
+                            "relative_elevation_m": -1.013,
+                            "reference_elevation_m": -1.035,
+                            "actual_thickness_m": 0.022,
+                            "thickness_positive_m": 0.022,
+                            "absolute_coordinates": [
+                                302725.377,
+                                2097365.374,
+                                4.457
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 10.8,
+                    "avg_height_m": 0.027,
+                    "max_height_m": 0.032,
+                    "min_height_m": 0.022
+                },
+                {
+                    "segment_number": 20,
+                    "segment_label": "M1-20",
+                    "from_chainage_m": 540.0,
+                    "to_chainage_m": 560.0,
+                    "from_chainage_str": "101+540",
+                    "to_chainage_str": "101+560",
+                    "from_coordinates": [
+                        302725.377,
+                        2097365.374,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302724.949,
+                        2097345.378,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 540.0,
+                            "relative_elevation_m": -1.013,
+                            "reference_elevation_m": -1.035,
+                            "actual_thickness_m": 0.022,
+                            "thickness_positive_m": 0.022,
+                            "absolute_coordinates": [
+                                302725.377,
+                                2097365.374,
+                                4.457
+                            ]
+                        },
+                        {
+                            "chainage_m": 560.0,
+                            "relative_elevation_m": -1.014,
+                            "reference_elevation_m": -1.026,
+                            "actual_thickness_m": 0.012,
+                            "thickness_positive_m": 0.012,
+                            "absolute_coordinates": [
+                                302724.949,
+                                2097345.378,
+                                4.456
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 6.8,
+                    "avg_height_m": 0.017,
+                    "max_height_m": 0.022,
+                    "min_height_m": 0.012
+                },
+                {
+                    "segment_number": 21,
+                    "segment_label": "M1-21",
+                    "from_chainage_m": 560.0,
+                    "to_chainage_m": 580.0,
+                    "from_chainage_str": "101+560",
+                    "to_chainage_str": "101+580",
+                    "from_coordinates": [
+                        302724.949,
+                        2097345.378,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302724.521,
+                        2097325.383,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 560.0,
+                            "relative_elevation_m": -1.014,
+                            "reference_elevation_m": -1.026,
+                            "actual_thickness_m": 0.012,
+                            "thickness_positive_m": 0.012,
+                            "absolute_coordinates": [
+                                302724.949,
+                                2097345.378,
+                                4.456
+                            ]
+                        },
+                        {
+                            "chainage_m": 580.0,
+                            "relative_elevation_m": -1.016,
+                            "reference_elevation_m": -1.542,
+                            "actual_thickness_m": 0.526,
+                            "thickness_positive_m": 0.526,
+                            "absolute_coordinates": [
+                                302724.521,
+                                2097325.383,
+                                4.454
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 107.6,
+                    "avg_height_m": 0.269,
+                    "max_height_m": 0.526,
+                    "min_height_m": 0.012
+                },
+                {
+                    "segment_number": 22,
+                    "segment_label": "M1-22",
+                    "from_chainage_m": 580.0,
+                    "to_chainage_m": 600.0,
+                    "from_chainage_str": "101+580",
+                    "to_chainage_str": "101+600",
+                    "from_coordinates": [
+                        302724.521,
+                        2097325.383,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302724.093,
+                        2097305.388,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 580.0,
+                            "relative_elevation_m": -1.016,
+                            "reference_elevation_m": -1.542,
+                            "actual_thickness_m": 0.526,
+                            "thickness_positive_m": 0.526,
+                            "absolute_coordinates": [
+                                302724.521,
+                                2097325.383,
+                                4.454
+                            ]
+                        },
+                        {
+                            "chainage_m": 600.0,
+                            "relative_elevation_m": -1.018,
+                            "reference_elevation_m": -2.058,
+                            "actual_thickness_m": 1.04,
+                            "thickness_positive_m": 1.04,
+                            "absolute_coordinates": [
+                                302724.093,
+                                2097305.388,
+                                4.452
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 313.2,
+                    "avg_height_m": 0.783,
+                    "max_height_m": 1.04,
+                    "min_height_m": 0.526
+                },
+                {
+                    "segment_number": 23,
+                    "segment_label": "M1-23",
+                    "from_chainage_m": 600.0,
+                    "to_chainage_m": 620.0,
+                    "from_chainage_str": "101+600",
+                    "to_chainage_str": "101+620",
+                    "from_coordinates": [
+                        302724.093,
+                        2097305.388,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302723.665,
+                        2097285.392,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 600.0,
+                            "relative_elevation_m": -1.018,
+                            "reference_elevation_m": -2.059,
+                            "actual_thickness_m": 1.041,
+                            "thickness_positive_m": 1.041,
+                            "absolute_coordinates": [
+                                302724.093,
+                                2097305.388,
+                                4.452
+                            ]
+                        },
+                        {
+                            "chainage_m": 620.0,
+                            "relative_elevation_m": -1.02,
+                            "reference_elevation_m": -2.059,
+                            "actual_thickness_m": 1.039,
+                            "thickness_positive_m": 1.039,
+                            "absolute_coordinates": [
+                                302723.665,
+                                2097285.392,
+                                4.45
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 416.0,
+                    "avg_height_m": 1.04,
+                    "max_height_m": 1.041,
+                    "min_height_m": 1.039
+                },
+                {
+                    "segment_number": 24,
+                    "segment_label": "M1-24",
+                    "from_chainage_m": 620.0,
+                    "to_chainage_m": 640.0,
+                    "from_chainage_str": "101+620",
+                    "to_chainage_str": "101+640",
+                    "from_coordinates": [
+                        302723.665,
+                        2097285.392,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302723.237,
+                        2097265.397,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 620.0,
+                            "relative_elevation_m": -1.02,
+                            "reference_elevation_m": -2.059,
+                            "actual_thickness_m": 1.039,
+                            "thickness_positive_m": 1.039,
+                            "absolute_coordinates": [
+                                302723.665,
+                                2097285.392,
+                                4.45
+                            ]
+                        },
+                        {
+                            "chainage_m": 640.0,
+                            "relative_elevation_m": -1.022,
+                            "reference_elevation_m": -2.059,
+                            "actual_thickness_m": 1.037,
+                            "thickness_positive_m": 1.037,
+                            "absolute_coordinates": [
+                                302723.237,
+                                2097265.397,
+                                4.448
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 415.2,
+                    "avg_height_m": 1.038,
+                    "max_height_m": 1.039,
+                    "min_height_m": 1.037
+                },
+                {
+                    "segment_number": 25,
+                    "segment_label": "M1-25",
+                    "from_chainage_m": 640.0,
+                    "to_chainage_m": 660.0,
+                    "from_chainage_str": "101+640",
+                    "to_chainage_str": "101+660",
+                    "from_coordinates": [
+                        302723.237,
+                        2097265.397,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302722.808,
+                        2097245.401,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 640.0,
+                            "relative_elevation_m": -1.022,
+                            "reference_elevation_m": -2.059,
+                            "actual_thickness_m": 1.037,
+                            "thickness_positive_m": 1.037,
+                            "absolute_coordinates": [
+                                302723.237,
+                                2097265.397,
+                                4.448
+                            ]
+                        },
+                        {
+                            "chainage_m": 660.0,
+                            "relative_elevation_m": -1.024,
+                            "reference_elevation_m": -2.059,
+                            "actual_thickness_m": 1.035,
+                            "thickness_positive_m": 1.035,
+                            "absolute_coordinates": [
+                                302722.808,
+                                2097245.401,
+                                4.446
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 414.4,
+                    "avg_height_m": 1.036,
+                    "max_height_m": 1.037,
+                    "min_height_m": 1.035
+                },
+                {
+                    "segment_number": 26,
+                    "segment_label": "M1-26",
+                    "from_chainage_m": 660.0,
+                    "to_chainage_m": 680.0,
+                    "from_chainage_str": "101+660",
+                    "to_chainage_str": "101+680",
+                    "from_coordinates": [
+                        302722.808,
+                        2097245.401,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302722.38,
+                        2097225.406,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 660.0,
+                            "relative_elevation_m": -1.024,
+                            "reference_elevation_m": -2.059,
+                            "actual_thickness_m": 1.035,
+                            "thickness_positive_m": 1.035,
+                            "absolute_coordinates": [
+                                302722.808,
+                                2097245.401,
+                                4.446
+                            ]
+                        },
+                        {
+                            "chainage_m": 680.0,
+                            "relative_elevation_m": -1.026,
+                            "reference_elevation_m": -2.05,
+                            "actual_thickness_m": 1.024,
+                            "thickness_positive_m": 1.024,
+                            "absolute_coordinates": [
+                                302722.38,
+                                2097225.406,
+                                4.444
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 0.622,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 411.8,
+                    "avg_height_m": 1.03,
+                    "max_height_m": 1.035,
+                    "min_height_m": 1.024
+                }
+            ],
+            "created_at": "2026-10-24T14:45:09.314205",
+            "worksheet": "RoadAssesment",
+            "construction_layer": "Material Layer-1",
+            "total_volume_m3": 6302.4
+        },
+        {
+            "material_line_folder": "M2",
+            "material_line_name": "M2",
+            "material_line_id": "M2",
+            "rmh_id": 125001,
+            "reference_baseline": [
+                "Construction",
+                "M1"
+            ],
+            "is_below_ground": true,
+            "overall_from_chainage": {
+                "coordinates": [
+                    302735.225,
+                    2097825.268,
+                    5.47
+                ],
+                "chainage_m": 80.0,
+                "chainage_str": "101+080"
+            },
+            "overall_to_chainage": {
+                "coordinates": [
+                    302720.239,
+                    2097125.429,
+                    5.47
+                ],
+                "chainage_m": 780.0,
+                "chainage_str": "101+780"
+            },
+            "total_segments": 35,
+            "segments": [
+                {
+                    "segment_number": 1,
+                    "segment_label": "M2-1",
+                    "from_chainage_m": 80.0,
+                    "to_chainage_m": 100.0,
+                    "from_chainage_str": "101+080",
+                    "to_chainage_str": "101+100",
+                    "from_coordinates": [
+                        302735.225,
+                        2097825.268,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302734.797,
+                        2097805.273,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 80.0,
+                            "relative_elevation_m": 1.053,
+                            "reference_elevation_m": -2.008,
+                            "actual_thickness_m": 3.061,
+                            "thickness_positive_m": 3.061,
+                            "absolute_coordinates": [
+                                302735.225,
+                                2097825.268,
+                                6.523
+                            ]
+                        },
+                        {
+                            "chainage_m": 100.0,
+                            "relative_elevation_m": 1.051,
+                            "reference_elevation_m": -2.008,
+                            "actual_thickness_m": 3.059,
+                            "thickness_positive_m": 3.059,
+                            "absolute_coordinates": [
+                                302734.797,
+                                2097805.273,
+                                6.521
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 1224.0,
+                    "avg_height_m": 3.06,
+                    "max_height_m": 3.061,
+                    "min_height_m": 3.059
+                },
+                {
+                    "segment_number": 2,
+                    "segment_label": "M2-2",
+                    "from_chainage_m": 100.0,
+                    "to_chainage_m": 120.0,
+                    "from_chainage_str": "101+100",
+                    "to_chainage_str": "101+120",
+                    "from_coordinates": [
+                        302734.797,
+                        2097805.273,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302734.369,
+                        2097785.278,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 100.0,
+                            "relative_elevation_m": 1.051,
+                            "reference_elevation_m": -2.008,
+                            "actual_thickness_m": 3.059,
+                            "thickness_positive_m": 3.059,
+                            "absolute_coordinates": [
+                                302734.797,
+                                2097805.273,
+                                6.521
+                            ]
+                        },
+                        {
+                            "chainage_m": 120.0,
+                            "relative_elevation_m": 1.049,
+                            "reference_elevation_m": -2.017,
+                            "actual_thickness_m": 3.066,
+                            "thickness_positive_m": 3.066,
+                            "absolute_coordinates": [
+                                302734.369,
+                                2097785.278,
+                                6.519
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 1225.0,
+                    "avg_height_m": 3.062,
+                    "max_height_m": 3.066,
+                    "min_height_m": 3.059
+                },
+                {
+                    "segment_number": 3,
+                    "segment_label": "M2-3",
+                    "from_chainage_m": 120.0,
+                    "to_chainage_m": 140.0,
+                    "from_chainage_str": "101+120",
+                    "to_chainage_str": "101+140",
+                    "from_coordinates": [
+                        302734.369,
+                        2097785.278,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302733.941,
+                        2097765.282,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 120.0,
+                            "relative_elevation_m": 1.049,
+                            "reference_elevation_m": -2.017,
+                            "actual_thickness_m": 3.066,
+                            "thickness_positive_m": 3.066,
+                            "absolute_coordinates": [
+                                302734.369,
+                                2097785.278,
+                                6.519
+                            ]
+                        },
+                        {
+                            "chainage_m": 140.0,
+                            "relative_elevation_m": 1.047,
+                            "reference_elevation_m": -2.025,
+                            "actual_thickness_m": 3.072,
+                            "thickness_positive_m": 3.072,
+                            "absolute_coordinates": [
+                                302733.941,
+                                2097765.282,
+                                6.517
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 1227.6,
+                    "avg_height_m": 3.069,
+                    "max_height_m": 3.072,
+                    "min_height_m": 3.066
+                },
+                {
+                    "segment_number": 4,
+                    "segment_label": "M2-4",
+                    "from_chainage_m": 140.0,
+                    "to_chainage_m": 160.0,
+                    "from_chainage_str": "101+140",
+                    "to_chainage_str": "101+160",
+                    "from_coordinates": [
+                        302733.941,
+                        2097765.282,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302733.513,
+                        2097745.287,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 140.0,
+                            "relative_elevation_m": 1.047,
+                            "reference_elevation_m": -2.025,
+                            "actual_thickness_m": 3.072,
+                            "thickness_positive_m": 3.072,
+                            "absolute_coordinates": [
+                                302733.941,
+                                2097765.282,
+                                6.517
+                            ]
+                        },
+                        {
+                            "chainage_m": 160.0,
+                            "relative_elevation_m": 1.045,
+                            "reference_elevation_m": -1.203,
+                            "actual_thickness_m": 2.248,
+                            "thickness_positive_m": 2.248,
+                            "absolute_coordinates": [
+                                302733.513,
+                                2097745.287,
+                                6.515
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 1064.0,
+                    "avg_height_m": 2.66,
+                    "max_height_m": 3.072,
+                    "min_height_m": 2.248
+                },
+                {
+                    "segment_number": 5,
+                    "segment_label": "M2-5",
+                    "from_chainage_m": 160.0,
+                    "to_chainage_m": 180.0,
+                    "from_chainage_str": "101+160",
+                    "to_chainage_str": "101+180",
+                    "from_coordinates": [
+                        302733.513,
+                        2097745.287,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302733.084,
+                        2097725.291,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 160.0,
+                            "relative_elevation_m": 1.045,
+                            "reference_elevation_m": -1.182,
+                            "actual_thickness_m": 2.227,
+                            "thickness_positive_m": 2.227,
+                            "absolute_coordinates": [
+                                302733.513,
+                                2097745.287,
+                                6.515
+                            ]
+                        },
+                        {
+                            "chainage_m": 180.0,
+                            "relative_elevation_m": 1.043,
+                            "reference_elevation_m": -0.978,
+                            "actual_thickness_m": 2.021,
+                            "thickness_positive_m": 2.021,
+                            "absolute_coordinates": [
+                                302733.084,
+                                2097725.291,
+                                6.513
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 849.6,
+                    "avg_height_m": 2.124,
+                    "max_height_m": 2.227,
+                    "min_height_m": 2.021
+                },
+                {
+                    "segment_number": 6,
+                    "segment_label": "M2-6",
+                    "from_chainage_m": 180.0,
+                    "to_chainage_m": 200.0,
+                    "from_chainage_str": "101+180",
+                    "to_chainage_str": "101+200",
+                    "from_coordinates": [
+                        302733.084,
+                        2097725.291,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302732.656,
+                        2097705.296,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 180.0,
+                            "relative_elevation_m": 1.043,
+                            "reference_elevation_m": -0.978,
+                            "actual_thickness_m": 2.021,
+                            "thickness_positive_m": 2.021,
+                            "absolute_coordinates": [
+                                302733.084,
+                                2097725.291,
+                                6.513
+                            ]
+                        },
+                        {
+                            "chainage_m": 200.0,
+                            "relative_elevation_m": 1.041,
+                            "reference_elevation_m": -0.98,
+                            "actual_thickness_m": 2.021,
+                            "thickness_positive_m": 2.021,
+                            "absolute_coordinates": [
+                                302732.656,
+                                2097705.296,
+                                6.511
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 808.4,
+                    "avg_height_m": 2.021,
+                    "max_height_m": 2.021,
+                    "min_height_m": 2.021
+                },
+                {
+                    "segment_number": 7,
+                    "segment_label": "M2-7",
+                    "from_chainage_m": 200.0,
+                    "to_chainage_m": 220.0,
+                    "from_chainage_str": "101+200",
+                    "to_chainage_str": "101+220",
+                    "from_coordinates": [
+                        302732.656,
+                        2097705.296,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302732.228,
+                        2097685.3,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 200.0,
+                            "relative_elevation_m": 1.041,
+                            "reference_elevation_m": -0.98,
+                            "actual_thickness_m": 2.021,
+                            "thickness_positive_m": 2.021,
+                            "absolute_coordinates": [
+                                302732.656,
+                                2097705.296,
+                                6.511
+                            ]
+                        },
+                        {
+                            "chainage_m": 220.0,
+                            "relative_elevation_m": 1.039,
+                            "reference_elevation_m": -0.982,
+                            "actual_thickness_m": 2.021,
+                            "thickness_positive_m": 2.021,
+                            "absolute_coordinates": [
+                                302732.228,
+                                2097685.3,
+                                6.509
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 808.4,
+                    "avg_height_m": 2.021,
+                    "max_height_m": 2.021,
+                    "min_height_m": 2.021
+                },
+                {
+                    "segment_number": 8,
+                    "segment_label": "M2-8",
+                    "from_chainage_m": 220.0,
+                    "to_chainage_m": 240.0,
+                    "from_chainage_str": "101+220",
+                    "to_chainage_str": "101+240",
+                    "from_coordinates": [
+                        302732.228,
+                        2097685.3,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302731.8,
+                        2097665.305,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 220.0,
+                            "relative_elevation_m": 1.039,
+                            "reference_elevation_m": -0.982,
+                            "actual_thickness_m": 2.021,
+                            "thickness_positive_m": 2.021,
+                            "absolute_coordinates": [
+                                302732.228,
+                                2097685.3,
+                                6.509
+                            ]
+                        },
+                        {
+                            "chainage_m": 240.0,
+                            "relative_elevation_m": 1.037,
+                            "reference_elevation_m": -0.983,
+                            "actual_thickness_m": 2.02,
+                            "thickness_positive_m": 2.02,
+                            "absolute_coordinates": [
+                                302731.8,
+                                2097665.305,
+                                6.507
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 808.2,
+                    "avg_height_m": 2.021,
+                    "max_height_m": 2.021,
+                    "min_height_m": 2.02
+                },
+                {
+                    "segment_number": 9,
+                    "segment_label": "M2-9",
+                    "from_chainage_m": 240.0,
+                    "to_chainage_m": 260.0,
+                    "from_chainage_str": "101+240",
+                    "to_chainage_str": "101+260",
+                    "from_coordinates": [
+                        302731.8,
+                        2097665.305,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302731.372,
+                        2097645.31,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 240.0,
+                            "relative_elevation_m": 1.037,
+                            "reference_elevation_m": -0.983,
+                            "actual_thickness_m": 2.02,
+                            "thickness_positive_m": 2.02,
+                            "absolute_coordinates": [
+                                302731.8,
+                                2097665.305,
+                                6.507
+                            ]
+                        },
+                        {
+                            "chainage_m": 260.0,
+                            "relative_elevation_m": 1.035,
+                            "reference_elevation_m": -0.985,
+                            "actual_thickness_m": 2.02,
+                            "thickness_positive_m": 2.02,
+                            "absolute_coordinates": [
+                                302731.372,
+                                2097645.31,
+                                6.505
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 808.0,
+                    "avg_height_m": 2.02,
+                    "max_height_m": 2.02,
+                    "min_height_m": 2.02
+                },
+                {
+                    "segment_number": 10,
+                    "segment_label": "M2-10",
+                    "from_chainage_m": 260.0,
+                    "to_chainage_m": 280.0,
+                    "from_chainage_str": "101+260",
+                    "to_chainage_str": "101+280",
+                    "from_coordinates": [
+                        302731.372,
+                        2097645.31,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302730.944,
+                        2097625.314,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 260.0,
+                            "relative_elevation_m": 1.035,
+                            "reference_elevation_m": -0.985,
+                            "actual_thickness_m": 2.02,
+                            "thickness_positive_m": 2.02,
+                            "absolute_coordinates": [
+                                302731.372,
+                                2097645.31,
+                                6.505
+                            ]
+                        },
+                        {
+                            "chainage_m": 280.0,
+                            "relative_elevation_m": 1.033,
+                            "reference_elevation_m": -0.987,
+                            "actual_thickness_m": 2.02,
+                            "thickness_positive_m": 2.02,
+                            "absolute_coordinates": [
+                                302730.944,
+                                2097625.314,
+                                6.503
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 808.0,
+                    "avg_height_m": 2.02,
+                    "max_height_m": 2.02,
+                    "min_height_m": 2.02
+                },
+                {
+                    "segment_number": 11,
+                    "segment_label": "M2-11",
+                    "from_chainage_m": 280.0,
+                    "to_chainage_m": 300.0,
+                    "from_chainage_str": "101+280",
+                    "to_chainage_str": "101+300",
+                    "from_coordinates": [
+                        302730.944,
+                        2097625.314,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302730.515,
+                        2097605.319,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 280.0,
+                            "relative_elevation_m": 1.033,
+                            "reference_elevation_m": -0.987,
+                            "actual_thickness_m": 2.02,
+                            "thickness_positive_m": 2.02,
+                            "absolute_coordinates": [
+                                302730.944,
+                                2097625.314,
+                                6.503
+                            ]
+                        },
+                        {
+                            "chainage_m": 300.0,
+                            "relative_elevation_m": 1.031,
+                            "reference_elevation_m": -0.989,
+                            "actual_thickness_m": 2.02,
+                            "thickness_positive_m": 2.02,
+                            "absolute_coordinates": [
+                                302730.515,
+                                2097605.319,
+                                6.501
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 808.0,
+                    "avg_height_m": 2.02,
+                    "max_height_m": 2.02,
+                    "min_height_m": 2.02
+                },
+                {
+                    "segment_number": 12,
+                    "segment_label": "M2-12",
+                    "from_chainage_m": 300.0,
+                    "to_chainage_m": 320.0,
+                    "from_chainage_str": "101+300",
+                    "to_chainage_str": "101+320",
+                    "from_coordinates": [
+                        302730.515,
+                        2097605.319,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302730.087,
+                        2097585.323,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 300.0,
+                            "relative_elevation_m": 1.031,
+                            "reference_elevation_m": -0.989,
+                            "actual_thickness_m": 2.02,
+                            "thickness_positive_m": 2.02,
+                            "absolute_coordinates": [
+                                302730.515,
+                                2097605.319,
+                                6.501
+                            ]
+                        },
+                        {
+                            "chainage_m": 320.0,
+                            "relative_elevation_m": 1.029,
+                            "reference_elevation_m": -0.991,
+                            "actual_thickness_m": 2.02,
+                            "thickness_positive_m": 2.02,
+                            "absolute_coordinates": [
+                                302730.087,
+                                2097585.323,
+                                6.499
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 808.0,
+                    "avg_height_m": 2.02,
+                    "max_height_m": 2.02,
+                    "min_height_m": 2.02
+                },
+                {
+                    "segment_number": 13,
+                    "segment_label": "M2-13",
+                    "from_chainage_m": 320.0,
+                    "to_chainage_m": 340.0,
+                    "from_chainage_str": "101+320",
+                    "to_chainage_str": "101+340",
+                    "from_coordinates": [
+                        302730.087,
+                        2097585.323,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302729.659,
+                        2097565.328,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 320.0,
+                            "relative_elevation_m": 1.029,
+                            "reference_elevation_m": -0.991,
+                            "actual_thickness_m": 2.02,
+                            "thickness_positive_m": 2.02,
+                            "absolute_coordinates": [
+                                302730.087,
+                                2097585.323,
+                                6.499
+                            ]
+                        },
+                        {
+                            "chainage_m": 340.0,
+                            "relative_elevation_m": 1.027,
+                            "reference_elevation_m": -0.993,
+                            "actual_thickness_m": 2.02,
+                            "thickness_positive_m": 2.02,
+                            "absolute_coordinates": [
+                                302729.659,
+                                2097565.328,
+                                6.497
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 808.0,
+                    "avg_height_m": 2.02,
+                    "max_height_m": 2.02,
+                    "min_height_m": 2.02
+                },
+                {
+                    "segment_number": 14,
+                    "segment_label": "M2-14",
+                    "from_chainage_m": 340.0,
+                    "to_chainage_m": 360.0,
+                    "from_chainage_str": "101+340",
+                    "to_chainage_str": "101+360",
+                    "from_coordinates": [
+                        302729.659,
+                        2097565.328,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302729.231,
+                        2097545.333,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 340.0,
+                            "relative_elevation_m": 1.027,
+                            "reference_elevation_m": -0.993,
+                            "actual_thickness_m": 2.02,
+                            "thickness_positive_m": 2.02,
+                            "absolute_coordinates": [
+                                302729.659,
+                                2097565.328,
+                                6.497
+                            ]
+                        },
+                        {
+                            "chainage_m": 360.0,
+                            "relative_elevation_m": 1.024,
+                            "reference_elevation_m": -0.995,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302729.231,
+                                2097545.333,
+                                6.494
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.8,
+                    "avg_height_m": 2.019,
+                    "max_height_m": 2.02,
+                    "min_height_m": 2.019
+                },
+                {
+                    "segment_number": 15,
+                    "segment_label": "M2-15",
+                    "from_chainage_m": 360.0,
+                    "to_chainage_m": 380.0,
+                    "from_chainage_str": "101+360",
+                    "to_chainage_str": "101+380",
+                    "from_coordinates": [
+                        302729.231,
+                        2097545.333,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302728.803,
+                        2097525.337,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 360.0,
+                            "relative_elevation_m": 1.024,
+                            "reference_elevation_m": -0.995,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302729.231,
+                                2097545.333,
+                                6.494
+                            ]
+                        },
+                        {
+                            "chainage_m": 380.0,
+                            "relative_elevation_m": 1.022,
+                            "reference_elevation_m": -0.997,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302728.803,
+                                2097525.337,
+                                6.492
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.6,
+                    "avg_height_m": 2.019,
+                    "max_height_m": 2.019,
+                    "min_height_m": 2.019
+                },
+                {
+                    "segment_number": 16,
+                    "segment_label": "M2-16",
+                    "from_chainage_m": 380.0,
+                    "to_chainage_m": 400.0,
+                    "from_chainage_str": "101+380",
+                    "to_chainage_str": "101+400",
+                    "from_coordinates": [
+                        302728.803,
+                        2097525.337,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302728.375,
+                        2097505.342,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 380.0,
+                            "relative_elevation_m": 1.022,
+                            "reference_elevation_m": -0.997,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302728.803,
+                                2097525.337,
+                                6.492
+                            ]
+                        },
+                        {
+                            "chainage_m": 400.0,
+                            "relative_elevation_m": 1.02,
+                            "reference_elevation_m": -0.999,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302728.375,
+                                2097505.342,
+                                6.49
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.6,
+                    "avg_height_m": 2.019,
+                    "max_height_m": 2.019,
+                    "min_height_m": 2.019
+                },
+                {
+                    "segment_number": 17,
+                    "segment_label": "M2-17",
+                    "from_chainage_m": 400.0,
+                    "to_chainage_m": 420.0,
+                    "from_chainage_str": "101+400",
+                    "to_chainage_str": "101+420",
+                    "from_coordinates": [
+                        302728.375,
+                        2097505.342,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302727.946,
+                        2097485.346,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 400.0,
+                            "relative_elevation_m": 1.02,
+                            "reference_elevation_m": -0.999,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302728.375,
+                                2097505.342,
+                                6.49
+                            ]
+                        },
+                        {
+                            "chainage_m": 420.0,
+                            "relative_elevation_m": 1.018,
+                            "reference_elevation_m": -1.001,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302727.946,
+                                2097485.346,
+                                6.488
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.6,
+                    "avg_height_m": 2.019,
+                    "max_height_m": 2.019,
+                    "min_height_m": 2.019
+                },
+                {
+                    "segment_number": 18,
+                    "segment_label": "M2-18",
+                    "from_chainage_m": 420.0,
+                    "to_chainage_m": 440.0,
+                    "from_chainage_str": "101+420",
+                    "to_chainage_str": "101+440",
+                    "from_coordinates": [
+                        302727.946,
+                        2097485.346,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302727.518,
+                        2097465.351,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 420.0,
+                            "relative_elevation_m": 1.018,
+                            "reference_elevation_m": -1.001,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302727.946,
+                                2097485.346,
+                                6.488
+                            ]
+                        },
+                        {
+                            "chainage_m": 440.0,
+                            "relative_elevation_m": 1.016,
+                            "reference_elevation_m": -1.003,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302727.518,
+                                2097465.351,
+                                6.486
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.6,
+                    "avg_height_m": 2.019,
+                    "max_height_m": 2.019,
+                    "min_height_m": 2.019
+                },
+                {
+                    "segment_number": 19,
+                    "segment_label": "M2-19",
+                    "from_chainage_m": 440.0,
+                    "to_chainage_m": 460.0,
+                    "from_chainage_str": "101+440",
+                    "to_chainage_str": "101+460",
+                    "from_coordinates": [
+                        302727.518,
+                        2097465.351,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302727.09,
+                        2097445.355,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 440.0,
+                            "relative_elevation_m": 1.016,
+                            "reference_elevation_m": -1.003,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302727.518,
+                                2097465.351,
+                                6.486
+                            ]
+                        },
+                        {
+                            "chainage_m": 460.0,
+                            "relative_elevation_m": 1.014,
+                            "reference_elevation_m": -1.005,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302727.09,
+                                2097445.355,
+                                6.484
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.6,
+                    "avg_height_m": 2.019,
+                    "max_height_m": 2.019,
+                    "min_height_m": 2.019
+                },
+                {
+                    "segment_number": 20,
+                    "segment_label": "M2-20",
+                    "from_chainage_m": 460.0,
+                    "to_chainage_m": 480.0,
+                    "from_chainage_str": "101+460",
+                    "to_chainage_str": "101+480",
+                    "from_coordinates": [
+                        302727.09,
+                        2097445.355,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302726.662,
+                        2097425.36,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 460.0,
+                            "relative_elevation_m": 1.014,
+                            "reference_elevation_m": -1.005,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302727.09,
+                                2097445.355,
+                                6.484
+                            ]
+                        },
+                        {
+                            "chainage_m": 480.0,
+                            "relative_elevation_m": 1.012,
+                            "reference_elevation_m": -1.007,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302726.662,
+                                2097425.36,
+                                6.482
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.6,
+                    "avg_height_m": 2.019,
+                    "max_height_m": 2.019,
+                    "min_height_m": 2.019
+                },
+                {
+                    "segment_number": 21,
+                    "segment_label": "M2-21",
+                    "from_chainage_m": 480.0,
+                    "to_chainage_m": 500.0,
+                    "from_chainage_str": "101+480",
+                    "to_chainage_str": "101+500",
+                    "from_coordinates": [
+                        302726.662,
+                        2097425.36,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302726.234,
+                        2097405.365,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 480.0,
+                            "relative_elevation_m": 1.012,
+                            "reference_elevation_m": -1.007,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302726.662,
+                                2097425.36,
+                                6.482
+                            ]
+                        },
+                        {
+                            "chainage_m": 500.0,
+                            "relative_elevation_m": 1.01,
+                            "reference_elevation_m": -1.009,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302726.234,
+                                2097405.365,
+                                6.48
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.6,
+                    "avg_height_m": 2.019,
+                    "max_height_m": 2.019,
+                    "min_height_m": 2.019
+                },
+                {
+                    "segment_number": 22,
+                    "segment_label": "M2-22",
+                    "from_chainage_m": 500.0,
+                    "to_chainage_m": 520.0,
+                    "from_chainage_str": "101+500",
+                    "to_chainage_str": "101+520",
+                    "from_coordinates": [
+                        302726.234,
+                        2097405.365,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302725.806,
+                        2097385.369,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 500.0,
+                            "relative_elevation_m": 1.01,
+                            "reference_elevation_m": -1.009,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302726.234,
+                                2097405.365,
+                                6.48
+                            ]
+                        },
+                        {
+                            "chainage_m": 520.0,
+                            "relative_elevation_m": 1.008,
+                            "reference_elevation_m": -1.011,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302725.806,
+                                2097385.369,
+                                6.478
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.6,
+                    "avg_height_m": 2.019,
+                    "max_height_m": 2.019,
+                    "min_height_m": 2.019
+                },
+                {
+                    "segment_number": 23,
+                    "segment_label": "M2-23",
+                    "from_chainage_m": 520.0,
+                    "to_chainage_m": 540.0,
+                    "from_chainage_str": "101+520",
+                    "to_chainage_str": "101+540",
+                    "from_coordinates": [
+                        302725.806,
+                        2097385.369,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302725.377,
+                        2097365.374,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 520.0,
+                            "relative_elevation_m": 1.008,
+                            "reference_elevation_m": -1.011,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302725.806,
+                                2097385.369,
+                                6.478
+                            ]
+                        },
+                        {
+                            "chainage_m": 540.0,
+                            "relative_elevation_m": 1.006,
+                            "reference_elevation_m": -1.013,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302725.377,
+                                2097365.374,
+                                6.476
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.6,
+                    "avg_height_m": 2.019,
+                    "max_height_m": 2.019,
+                    "min_height_m": 2.019
+                },
+                {
+                    "segment_number": 24,
+                    "segment_label": "M2-24",
+                    "from_chainage_m": 540.0,
+                    "to_chainage_m": 560.0,
+                    "from_chainage_str": "101+540",
+                    "to_chainage_str": "101+560",
+                    "from_coordinates": [
+                        302725.377,
+                        2097365.374,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302724.949,
+                        2097345.378,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 540.0,
+                            "relative_elevation_m": 1.006,
+                            "reference_elevation_m": -1.013,
+                            "actual_thickness_m": 2.019,
+                            "thickness_positive_m": 2.019,
+                            "absolute_coordinates": [
+                                302725.377,
+                                2097365.374,
+                                6.476
+                            ]
+                        },
+                        {
+                            "chainage_m": 560.0,
+                            "relative_elevation_m": 1.004,
+                            "reference_elevation_m": -1.014,
+                            "actual_thickness_m": 2.018,
+                            "thickness_positive_m": 2.018,
+                            "absolute_coordinates": [
+                                302724.949,
+                                2097345.378,
+                                6.474
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.4,
+                    "avg_height_m": 2.018,
+                    "max_height_m": 2.019,
+                    "min_height_m": 2.018
+                },
+                {
+                    "segment_number": 25,
+                    "segment_label": "M2-25",
+                    "from_chainage_m": 560.0,
+                    "to_chainage_m": 580.0,
+                    "from_chainage_str": "101+560",
+                    "to_chainage_str": "101+580",
+                    "from_coordinates": [
+                        302724.949,
+                        2097345.378,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302724.521,
+                        2097325.383,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 560.0,
+                            "relative_elevation_m": 1.004,
+                            "reference_elevation_m": -1.014,
+                            "actual_thickness_m": 2.018,
+                            "thickness_positive_m": 2.018,
+                            "absolute_coordinates": [
+                                302724.949,
+                                2097345.378,
+                                6.474
+                            ]
+                        },
+                        {
+                            "chainage_m": 580.0,
+                            "relative_elevation_m": 1.002,
+                            "reference_elevation_m": -1.016,
+                            "actual_thickness_m": 2.018,
+                            "thickness_positive_m": 2.018,
+                            "absolute_coordinates": [
+                                302724.521,
+                                2097325.383,
+                                6.472
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.2,
+                    "avg_height_m": 2.018,
+                    "max_height_m": 2.018,
+                    "min_height_m": 2.018
+                },
+                {
+                    "segment_number": 26,
+                    "segment_label": "M2-26",
+                    "from_chainage_m": 580.0,
+                    "to_chainage_m": 600.0,
+                    "from_chainage_str": "101+580",
+                    "to_chainage_str": "101+600",
+                    "from_coordinates": [
+                        302724.521,
+                        2097325.383,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302724.093,
+                        2097305.388,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 580.0,
+                            "relative_elevation_m": 1.002,
+                            "reference_elevation_m": -1.016,
+                            "actual_thickness_m": 2.018,
+                            "thickness_positive_m": 2.018,
+                            "absolute_coordinates": [
+                                302724.521,
+                                2097325.383,
+                                6.472
+                            ]
+                        },
+                        {
+                            "chainage_m": 600.0,
+                            "relative_elevation_m": 1.0,
+                            "reference_elevation_m": -1.018,
+                            "actual_thickness_m": 2.018,
+                            "thickness_positive_m": 2.018,
+                            "absolute_coordinates": [
+                                302724.093,
+                                2097305.388,
+                                6.47
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.2,
+                    "avg_height_m": 2.018,
+                    "max_height_m": 2.018,
+                    "min_height_m": 2.018
+                },
+                {
+                    "segment_number": 27,
+                    "segment_label": "M2-27",
+                    "from_chainage_m": 600.0,
+                    "to_chainage_m": 620.0,
+                    "from_chainage_str": "101+600",
+                    "to_chainage_str": "101+620",
+                    "from_coordinates": [
+                        302724.093,
+                        2097305.388,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302723.665,
+                        2097285.392,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 600.0,
+                            "relative_elevation_m": 1.0,
+                            "reference_elevation_m": -1.018,
+                            "actual_thickness_m": 2.018,
+                            "thickness_positive_m": 2.018,
+                            "absolute_coordinates": [
+                                302724.093,
+                                2097305.388,
+                                6.47
+                            ]
+                        },
+                        {
+                            "chainage_m": 620.0,
+                            "relative_elevation_m": 0.998,
+                            "reference_elevation_m": -1.02,
+                            "actual_thickness_m": 2.018,
+                            "thickness_positive_m": 2.018,
+                            "absolute_coordinates": [
+                                302723.665,
+                                2097285.392,
+                                6.468
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.2,
+                    "avg_height_m": 2.018,
+                    "max_height_m": 2.018,
+                    "min_height_m": 2.018
+                },
+                {
+                    "segment_number": 28,
+                    "segment_label": "M2-28",
+                    "from_chainage_m": 620.0,
+                    "to_chainage_m": 640.0,
+                    "from_chainage_str": "101+620",
+                    "to_chainage_str": "101+640",
+                    "from_coordinates": [
+                        302723.665,
+                        2097285.392,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302723.237,
+                        2097265.397,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 620.0,
+                            "relative_elevation_m": 0.998,
+                            "reference_elevation_m": -1.02,
+                            "actual_thickness_m": 2.018,
+                            "thickness_positive_m": 2.018,
+                            "absolute_coordinates": [
+                                302723.665,
+                                2097285.392,
+                                6.468
+                            ]
+                        },
+                        {
+                            "chainage_m": 640.0,
+                            "relative_elevation_m": 0.996,
+                            "reference_elevation_m": -1.022,
+                            "actual_thickness_m": 2.018,
+                            "thickness_positive_m": 2.018,
+                            "absolute_coordinates": [
+                                302723.237,
+                                2097265.397,
+                                6.466
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.2,
+                    "avg_height_m": 2.018,
+                    "max_height_m": 2.018,
+                    "min_height_m": 2.018
+                },
+                {
+                    "segment_number": 29,
+                    "segment_label": "M2-29",
+                    "from_chainage_m": 640.0,
+                    "to_chainage_m": 660.0,
+                    "from_chainage_str": "101+640",
+                    "to_chainage_str": "101+660",
+                    "from_coordinates": [
+                        302723.237,
+                        2097265.397,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302722.808,
+                        2097245.401,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 640.0,
+                            "relative_elevation_m": 0.996,
+                            "reference_elevation_m": -1.022,
+                            "actual_thickness_m": 2.018,
+                            "thickness_positive_m": 2.018,
+                            "absolute_coordinates": [
+                                302723.237,
+                                2097265.397,
+                                6.466
+                            ]
+                        },
+                        {
+                            "chainage_m": 660.0,
+                            "relative_elevation_m": 0.993,
+                            "reference_elevation_m": -1.024,
+                            "actual_thickness_m": 2.017,
+                            "thickness_positive_m": 2.017,
+                            "absolute_coordinates": [
+                                302722.808,
+                                2097245.401,
+                                6.463
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 807.0,
+                    "avg_height_m": 2.018,
+                    "max_height_m": 2.018,
+                    "min_height_m": 2.017
+                },
+                {
+                    "segment_number": 30,
+                    "segment_label": "M2-30",
+                    "from_chainage_m": 660.0,
+                    "to_chainage_m": 680.0,
+                    "from_chainage_str": "101+660",
+                    "to_chainage_str": "101+680",
+                    "from_coordinates": [
+                        302722.808,
+                        2097245.401,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302722.38,
+                        2097225.406,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 660.0,
+                            "relative_elevation_m": 0.993,
+                            "reference_elevation_m": -1.024,
+                            "actual_thickness_m": 2.017,
+                            "thickness_positive_m": 2.017,
+                            "absolute_coordinates": [
+                                302722.808,
+                                2097245.401,
+                                6.463
+                            ]
+                        },
+                        {
+                            "chainage_m": 680.0,
+                            "relative_elevation_m": 0.991,
+                            "reference_elevation_m": -1.147,
+                            "actual_thickness_m": 2.138,
+                            "thickness_positive_m": 2.138,
+                            "absolute_coordinates": [
+                                302722.38,
+                                2097225.406,
+                                6.461
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 831.0,
+                    "avg_height_m": 2.077,
+                    "max_height_m": 2.138,
+                    "min_height_m": 2.017
+                },
+                {
+                    "segment_number": 31,
+                    "segment_label": "M2-31",
+                    "from_chainage_m": 680.0,
+                    "to_chainage_m": 700.0,
+                    "from_chainage_str": "101+680",
+                    "to_chainage_str": "101+700",
+                    "from_coordinates": [
+                        302722.38,
+                        2097225.406,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302721.952,
+                        2097205.41,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 680.0,
+                            "relative_elevation_m": 0.991,
+                            "reference_elevation_m": -1.168,
+                            "actual_thickness_m": 2.159,
+                            "thickness_positive_m": 2.159,
+                            "absolute_coordinates": [
+                                302722.38,
+                                2097225.406,
+                                6.461
+                            ]
+                        },
+                        {
+                            "chainage_m": 700.0,
+                            "relative_elevation_m": 0.989,
+                            "reference_elevation_m": -2.042,
+                            "actual_thickness_m": 3.031,
+                            "thickness_positive_m": 3.031,
+                            "absolute_coordinates": [
+                                302721.952,
+                                2097205.41,
+                                6.459
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 1038.0,
+                    "avg_height_m": 2.595,
+                    "max_height_m": 3.031,
+                    "min_height_m": 2.159
+                },
+                {
+                    "segment_number": 32,
+                    "segment_label": "M2-32",
+                    "from_chainage_m": 700.0,
+                    "to_chainage_m": 720.0,
+                    "from_chainage_str": "101+700",
+                    "to_chainage_str": "101+720",
+                    "from_coordinates": [
+                        302721.952,
+                        2097205.41,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302721.524,
+                        2097185.415,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 700.0,
+                            "relative_elevation_m": 0.989,
+                            "reference_elevation_m": -2.042,
+                            "actual_thickness_m": 3.031,
+                            "thickness_positive_m": 3.031,
+                            "absolute_coordinates": [
+                                302721.952,
+                                2097205.41,
+                                6.459
+                            ]
+                        },
+                        {
+                            "chainage_m": 720.0,
+                            "relative_elevation_m": 0.987,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 3.02,
+                            "thickness_positive_m": 3.02,
+                            "absolute_coordinates": [
+                                302721.524,
+                                2097185.415,
+                                6.457
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 1210.2,
+                    "avg_height_m": 3.026,
+                    "max_height_m": 3.031,
+                    "min_height_m": 3.02
+                },
+                {
+                    "segment_number": 33,
+                    "segment_label": "M2-33",
+                    "from_chainage_m": 720.0,
+                    "to_chainage_m": 740.0,
+                    "from_chainage_str": "101+720",
+                    "to_chainage_str": "101+740",
+                    "from_coordinates": [
+                        302721.524,
+                        2097185.415,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302721.096,
+                        2097165.42,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 720.0,
+                            "relative_elevation_m": 0.987,
+                            "reference_elevation_m": -2.033,
+                            "actual_thickness_m": 3.02,
+                            "thickness_positive_m": 3.02,
+                            "absolute_coordinates": [
+                                302721.524,
+                                2097185.415,
+                                6.457
+                            ]
+                        },
+                        {
+                            "chainage_m": 740.0,
+                            "relative_elevation_m": 0.985,
+                            "reference_elevation_m": -2.017,
+                            "actual_thickness_m": 3.002,
+                            "thickness_positive_m": 3.002,
+                            "absolute_coordinates": [
+                                302721.096,
+                                2097165.42,
+                                6.455
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 1204.4,
+                    "avg_height_m": 3.011,
+                    "max_height_m": 3.02,
+                    "min_height_m": 3.002
+                },
+                {
+                    "segment_number": 34,
+                    "segment_label": "M2-34",
+                    "from_chainage_m": 740.0,
+                    "to_chainage_m": 760.0,
+                    "from_chainage_str": "101+740",
+                    "to_chainage_str": "101+760",
+                    "from_coordinates": [
+                        302721.096,
+                        2097165.42,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302720.668,
+                        2097145.424,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 740.0,
+                            "relative_elevation_m": 0.985,
+                            "reference_elevation_m": -2.017,
+                            "actual_thickness_m": 3.002,
+                            "thickness_positive_m": 3.002,
+                            "absolute_coordinates": [
+                                302721.096,
+                                2097165.42,
+                                6.455
+                            ]
+                        },
+                        {
+                            "chainage_m": 760.0,
+                            "relative_elevation_m": 0.983,
+                            "reference_elevation_m": -2.0,
+                            "actual_thickness_m": 2.983,
+                            "thickness_positive_m": 2.983,
+                            "absolute_coordinates": [
+                                302720.668,
+                                2097145.424,
+                                6.453
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 1197.0,
+                    "avg_height_m": 2.992,
+                    "max_height_m": 3.002,
+                    "min_height_m": 2.983
+                },
+                {
+                    "segment_number": 35,
+                    "segment_label": "M2-35",
+                    "from_chainage_m": 760.0,
+                    "to_chainage_m": 780.0,
+                    "from_chainage_str": "101+760",
+                    "to_chainage_str": "101+780",
+                    "from_coordinates": [
+                        302720.668,
+                        2097145.424,
+                        5.47
+                    ],
+                    "to_coordinates": [
+                        302720.239,
+                        2097125.429,
+                        5.47
+                    ],
+                    "polyline_points": [
+                        {
+                            "chainage_m": 760.0,
+                            "relative_elevation_m": 0.983,
+                            "reference_elevation_m": -2.0,
+                            "actual_thickness_m": 2.983,
+                            "thickness_positive_m": 2.983,
+                            "absolute_coordinates": [
+                                302720.668,
+                                2097145.424,
+                                6.453
+                            ]
+                        },
+                        {
+                            "chainage_m": 780.0,
+                            "relative_elevation_m": 0.981,
+                            "reference_elevation_m": -1.983,
+                            "actual_thickness_m": 2.964,
+                            "thickness_positive_m": 2.964,
+                            "absolute_coordinates": [
+                                302720.239,
+                                2097125.429,
+                                6.451
+                            ]
+                        }
+                    ],
+                    "material_thickness_m": 2.281,
+                    "width_m": 20.0,
+                    "after_rolling_thickness_m": 0.001,
+                    "material_description": "",
+                    "volume_m3": 1189.4,
+                    "avg_height_m": 2.974,
+                    "max_height_m": 2.983,
+                    "min_height_m": 2.964
+                }
+            ],
+            "created_at": "2026-10-24T14:47:09.741793",
+            "worksheet": "RoadAssesment",
+            "construction_layer": "Material Layer-1",
+            "total_volume_m3": 31644.6
+        }
+    ],
+    "last_updated": "2026-10-24T15:03:16.002046",
+    "updated_by": "pooja swami",
+    "construction_layer": "Material Layer-1",
+    "worksheet": "RoadAssesment",
+    "material_lines_config": {
+        "worksheet_name": "RoadAssesment",
+        "project_name": "Project_1",
+        "created_by": "pooja swami",
+        "created_at": "2026-10-24T14:59:30.829882",
+        "material_line": [
+            {
+                "name": "M1",
+                "material_type": "GSB Grade-1",
+                "rmh_id": 125001,
+                "ref_layer": "Construction",
+                "road_surfacing": false,
+                "dialog_segments": []
+            },
+            {
+                "name": "M2",
+                "material_type": "GSB Grade-1",
+                "rmh_id": 125001,
+                "ref_layer": [
+                    "Construction",
+                    "M1"
+                ],
+                "road_surfacing": false,
+                "dialog_segments": [
+                    {
+                        "from_chainage": "101+00.000",
+                        "to_chainage": "101+160",
+                        "ref_layer": "Construction"
+                    },
+                    {
+                        "from_chainage": "101+160",
+                        "to_chainage": "101+680",
+                        "ref_layer": "M1"
+                    },
+                    {
+                        "from_chainage": "101+680",
+                        "to_chainage": "101+780.000",
+                        "ref_layer": "Construction"
+                    }
+                ]
+            }
+        ]
+    }
+}

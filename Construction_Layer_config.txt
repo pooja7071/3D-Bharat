@@ -1,0 +1,18 @@
+{
+    "construction_layer_name": "Material Layer-1",
+    "worksheet_name": "RoadAssesment",
+    "project_name": "None",
+    "worksheet_type": "Design",
+    "worksheet_category": "Road",
+    "construction_type": "Road",
+    "reference_layer_2d": "Design Layer-2",
+    "design_layer_name": "Design Layer-2",
+    "base_lines_reference": [
+        "Surface",
+        "Road Surface",
+        "Construction"
+    ],
+    "created_at": "2026-10-24T14:39:41.041672",
+    "created_by": "pooja swami",
+    "material_lines": []
+}

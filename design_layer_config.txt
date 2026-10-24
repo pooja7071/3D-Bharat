@@ -1,0 +1,12 @@
+{
+    "layer_name": "Design Layer-2",
+    "dimension": "2D",
+    "reference_type": "Road",
+    "reference_line": "Road_Layer_1",
+    "master_layer": false,
+    "project_name": "None",
+    "worksheet_name": "RoadAssesment",
+    "point_cloud_file": "Road Raw.ply",
+    "created_by": "pooja swami",
+    "created_at": "2026-10-24T14:11:38.977929"
+}
